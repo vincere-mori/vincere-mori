@@ -34,6 +34,6 @@
 **проекты:**  
 • [crypto-bot](https://github.com/BladeStranger04/crypto-watchdog) - асинхронный мониторинг биржи (100+ событий/сек)  
 • [streaming-demo](https://github.com/BladeStranger04/streaming-etl-pipeline) - пайплайн на Spark + Kafka  
-• [user-behavior](https://github.com/BladeStranger04/predictive-user-behavior) - прогноз поведения пользователей (LSTM+ARIMA)
+• [user-behavior](https://github.com/BladeStranger04/user-behavior) - прогноз поведения пользователей (LSTM+ARIMA)
 
 📫 [telegram](https://t.me/vincere_morii) • [leetcode](https://leetcode.com/BladeStranger04/)
