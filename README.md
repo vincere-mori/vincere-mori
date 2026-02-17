@@ -1,5 +1,28 @@
-# Арсений Копылов 👨‍💻
-### Junior Data Scientist | Machine Learning Engineer
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1yZHdnYmkxam5uYmdnY2U2ZmVuaTBzMXZsajh0dnkwbHpzbDdqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUp9Nb1czvHMY/giphy.gif"/>
+  <h1>Periculum in mora</h1>
+  <p>Junior Data Scientist | ML Engineer • Санкт-Петербург</p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/jsua">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://github.com/BladeStranger04">
+      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="mailto:arseniy.kdev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BladeStranger04&color=blueviolet&style=for-the-badge" />
+</div>
+
+# arsi 👨‍💻
+### Data Enjoyer
 
 📍 Санкт-Петербург  
 📫 arseniy.kdev@gmail.com  
@@ -88,4 +111,4 @@ Spark Streaming + Kafka + Airflow demo пайплайн.
 
 ---
 
-⭐ Открыт к стажировкам и Junior позициям в ML / Data Science / Data Engineering
+
