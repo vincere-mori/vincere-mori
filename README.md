@@ -33,8 +33,8 @@
 — common: Python, SQL, Docker, Git, Linux
 
 **Проекты:**  
-• [crypto-bot](https://github.com/BladeStranger04/crypto-watchdog) - асинхронный мониторинг биржи (100+ событий/сек)  
-• [user-behavior](https://github.com/BladeStranger04/user-behavior) - прогноз поведения пользователей (LSTM+ARIMA)
-• [clickstream-analytics](https://github.com/BladeStranger04/clickstream-analytics) - end-to-end пайплайн обработки clickstream-событий (Kafka + Spark + ClickHouse + Airflow + FastAPI)
+- [crypto-bot](https://github.com/BladeStranger04/crypto-watchdog) - асинхронный мониторинг биржи (100+ событий/сек)
+- [user-behavior](https://github.com/BladeStranger04/user-behavior) - прогноз поведения пользователей (LSTM+ARIMA)
+- [clickstream-analytics](https://github.com/BladeStranger04/clickstream-analytics) - end-to-end пайплайн обработки clickstream-событий (Kafka + Spark + ClickHouse + Airflow + FastAPI)
 
 📫 [telegram](https://t.me/vincere_morii) • [leetcode](https://leetcode.com/BladeStranger04/)
