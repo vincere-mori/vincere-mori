@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1yZHdnYmkxam5uYmdnY2U2ZmVuaTBzMXZsajh0dnkwbHpzbDdqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUp9Nb1czvHMY/giphy.gif"/>
   <h1>Periculum in mora</h1>
-  <p>Data Scientist | Data Engineer • Санкт-Петербург</p>
+  <p>Data Scientist | Data Engineer • Saint Petersburg</p>
 
   <p>
     <a href="https://www.linkedin.com/in/jsua">
@@ -23,18 +23,19 @@
 
 ### ars
 
-Студент ИТМО. 3 года в разработке, 1 год коммерческого опыта как Data Engineer.
-Работал с ETL на Spark, стримингом и мониторингом на Kafka, проектировал аналитические витрины в Greenplum.
+ITMO University student. 3 years in development, 1 year of commercial experience as a Data Engineer.
+Worked with ETL on Spark, streaming and monitoring with Kafka, designed analytical data marts in Greenplum.
 
-**Инструменты:**  
-— ML: PyTorch, scikit-learn, XGBoost, CatBoost, pandas, NumPy, статистика, feature engineering  
+**Tools:**  
+— ML: PyTorch, scikit-learn, XGBoost, CatBoost, pandas, NumPy, statistics, feature engineering  
 — DE: Kafka, Spark, Airflow, ClickHouse, PostgreSQL, ETL/ELT, streaming pipelines  
-— backend: FastAPI, Asyncio  
-— common: Python, SQL, Docker, Git, Linux
+— Backend: FastAPI, Asyncio  
+— General: Python, SQL, Docker, Git, Linux
 
-**Проекты:**  
-- [crypto-bot](https://github.com/BladeStranger04/crypto-watchdog) - асинхронный мониторинг биржи (100+ событий/сек)
-- [user-behavior](https://github.com/BladeStranger04/user-behavior) - прогноз поведения пользователей (LSTM+ARIMA)
-- [clickstream-analytics](https://github.com/BladeStranger04/clickstream-analytics) - end-to-end пайплайн обработки clickstream-событий (Kafka + Spark + ClickHouse + Airflow + FastAPI)
+**Projects:**  
+- [crypto-bot](https://github.com/BladeStranger04/crypto-watchdog) - async exchange monitoring (100+ events/sec)
+- [user-behavior](https://github.com/BladeStranger04/user-behavior) - user behavior forecasting (LSTM+ARIMA)
+- [clickstream-analytics](https://github.com/BladeStranger04/clickstream-analytics) - end-to-end clickstream processing pipeline (Kafka + Spark + ClickHouse + Airflow + FastAPI)
+- [QuickTimer](https://github.com/BladeStranger04/QuickTimer) - minimal online timer for focus, study and work. Open source, fast, clean, and easy to deploy.
 
 📫 [telegram](https://t.me/vincere_morii) • [leetcode](https://leetcode.com/BladeStranger04/)
