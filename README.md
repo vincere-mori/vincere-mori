@@ -36,6 +36,6 @@ Worked with ETL on Spark, streaming and monitoring with Kafka, designed analytic
 - [crypto-bot](https://github.com/BladeStranger04/crypto-watchdog) - async exchange monitoring (100+ events/sec)
 - [user-behavior](https://github.com/BladeStranger04/user-behavior) - user behavior forecasting (LSTM+ARIMA)
 - [clickstream-analytics](https://github.com/BladeStranger04/clickstream-analytics) - end-to-end clickstream processing pipeline (Kafka + Spark + ClickHouse + Airflow + FastAPI)
-- [QuickTimer](https://github.com/BladeStranger04/QuickTimer) - minimal online timer for focus, study and work. Open source, fast, clean, and easy to deploy.
+- [QuietTimer](https://github.com/BladeStranger04/QuietTimer) - minimal online timer for focus, study and work. Open source, fast, clean, and easy to deploy.
 
 📫 [telegram](https://t.me/vincere_morii) • [leetcode](https://leetcode.com/BladeStranger04/)
