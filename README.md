@@ -5,7 +5,7 @@
 <h1 align="center">Periculum in mora</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Data+Engineer;ML+Enthusiast;Python+%7C+Spark+%7C+Kafka+%7C+Airflow;Saint-Petersburg" alt="typing animation" />
+  Data Engineer • Machine Learning • Backend | Saint-Petersburg
 </p>
 
 <p align="center">
