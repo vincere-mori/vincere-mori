@@ -21,7 +21,7 @@
   <a href="mailto:arseniy.kdev@gmail.com">
     <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/BladeStranger04/">
+  <a href="https://leetcode.com/u/jesus_res/">
     <img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
