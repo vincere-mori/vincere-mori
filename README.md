@@ -86,10 +86,10 @@
     <td width="50%">
       <h3>Momentum💀</h3>
       <p>Gamified anti-procrastination web app that turns tasks, habits, and routines into a rewarding progress system with themes, bilingual UI, and daily reflections.</p>
-      <a href="https://github.com/BladeStranger04/Momentum">
+      <a href="https://github.com/BladeStranger04/momentum">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://bladestranger04.github.io/Momentum/">
+      <a href="https://bladestranger04.github.io/momentum/">
         <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
