@@ -93,8 +93,6 @@
         <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Crypto_Watchdog</h3>
       <p>Async exchange monitoring system handling 100+ events/sec with focus on latency and reliability.</p>
@@ -102,6 +100,9 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%">
       <h3>Clickstream_Analytics</h3>
       <p>End-to-end clickstream pipeline with Kafka, Spark, ClickHouse, Airflow, and FastAPI.</p>
@@ -109,8 +110,6 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>User_Behavior</h3>
       <p>User behavior forecasting using LSTM and ARIMA for sequence-based analytics and prediction tasks.</p>
@@ -120,6 +119,7 @@
     </td>
     <td width="50%"></td>
   </tr>
+  
 </table>
 
 ---
