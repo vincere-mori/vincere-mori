@@ -84,15 +84,24 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>Momentum💀</h3>
-      <p>Anti-procrastination web app that turns tasks, habits, and routines into a rewarding progress system</p>
-      <a href="https://github.com/BladeStranger04/momentum">
+      <h3>Lumen</h3>
+      <p>A personal discipline tracker built on faith, habit, and scripture.</p>
+      <a href="https://github.com/BladeStranger04/lumen">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://bladestranger04.github.io/momentum/">
-        <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" />
+      <a href="https://bladestranger04.github.io/lumen/">
+        <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
     </td>
+    <td width="50%">
+      <h3>ML Engineer Roadmap</h3>
+      <p>Comprehensive guide and curated resources for mastering Machine Learning Engineering.</p>
+      <a href="https://github.com/BladeStranger04/ml-engineer-roadmap">
+        <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Crypto_Watchdog</h3>
       <p>Async exchange monitoring system handling 100+ events/sec with focus on latency and reliability.</p>
@@ -100,9 +109,6 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%">
       <h3>Clickstream_Analytics</h3>
       <p>End-to-end clickstream pipeline with Kafka, Spark, ClickHouse, Airflow, and FastAPI.</p>
@@ -110,6 +116,8 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>User_Behavior</h3>
       <p>User behavior forecasting using LSTM and ARIMA for sequence-based analytics and prediction tasks.</p>
@@ -119,8 +127,23 @@
     </td>
     <td width="50%"></td>
   </tr>
-  
 </table>
+
+---
+
+## Let's connect & Support
+
+For any development inquiries, freelance projects, or just to chat about tech, feel free to reach out to me directly on **[Telegram](https://t.me/vincere_morii)** or **[VK](https://vk.com/vincere_morii)**.
+
+If my open-source work or roadmaps have helped you out, you can support my coffee addiction here:
+<p>
+  <a href="https://boosty.to/jsu/donate">
+    <img src="https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white" />
+  </a>
+  <a href="https://pay.cloudtips.ru/p/6c077990">
+    <img src="https://img.shields.io/badge/Cloudtips-000000?style=for-the-badge&logo=cloudtips&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -131,6 +154,12 @@
 </p>
 
 ---
+
+<p align="center">
+  <em>«и свет во тьме светит, и тьма не объяла его.»</em><br>
+  <sup>— от Иоанна 1:5</sup>
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:050510,50:111827,100:2b0a3d&fontColor=ffffff" width="100%" />
 </div>
