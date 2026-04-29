@@ -86,10 +86,10 @@
     <td width="50%">
       <h3>Lumen</h3>
       <p>A personal discipline tracker built on faith, habit, and scripture.</p>
-      <a href="https://github.com/BladeStranger04/lumen">
+      <a href="https://github.com/BladeStranger04/lumen-dist">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://bladestranger04.github.io/lumen/">
+      <a href="https://bladestranger04.github.io/lumen-dist/">
         <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
     </td>
@@ -135,7 +135,7 @@
 
 For any development inquiries, freelance projects, or just to chat about tech, feel free to reach out to me directly on **[Telegram](https://t.me/vincere_morii)** or **[VK](https://vk.com/vincere_morii)**.
 
-If my open-source work or roadmaps have helped you out, you can support my coffee addiction here:
+If my open-source work or roadmaps have helped you out, you can support my tea addiction here:
 <p>
   <a href="https://boosty.to/jsu/donate">
     <img src="https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white" />
