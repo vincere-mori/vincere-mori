@@ -86,7 +86,7 @@
     <td width="50%">
       <h3>Lumen</h3>
       <p>A personal discipline tracker built on faith, habit, and scripture.</p>
-      <a href="https://github.com/BladeStranger04/lumen-dist">
+      <a href="https://github.com/BladeStranger04/lumen-dist/">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <a href="https://bladestranger04.github.io/lumen-dist/">
