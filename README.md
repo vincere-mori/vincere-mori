@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BladeStranger04&color=7c3aed&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=vincere-mori&color=7c3aed&style=for-the-badge" />
 </p>
 
 ---
@@ -86,17 +86,17 @@
     <td width="50%">
       <h3>Lumen</h3>
       <p>A personal discipline tracker built on faith, habit, and scripture.</p>
-      <a href="https://github.com/BladeStranger04/lumen-dist/">
+      <a href="https://github.com/vincere-mori/lumen-dist/">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://bladestranger04.github.io/lumen-dist/">
+      <a href="https://vincere-mori.github.io/lumen-dist/">
         <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
     </td>
     <td width="50%">
       <h3>ML Engineer Roadmap</h3>
       <p>Comprehensive guide and curated resources for mastering Machine Learning Engineering.</p>
-      <a href="https://github.com/BladeStranger04/ml-engineer-roadmap">
+      <a href="https://github.com/vincere-mori/ml-engineer-roadmap">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -105,14 +105,14 @@
     <td width="50%">
       <h3>Crypto_Watchdog</h3>
       <p>Async exchange monitoring system handling 100+ events/sec with focus on latency and reliability.</p>
-      <a href="https://github.com/BladeStranger04/crypto-watchdog">
+      <a href="https://github.com/vincere-mori/crypto-watchdog">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%">
       <h3>Clickstream_Analytics</h3>
       <p>End-to-end clickstream pipeline with Kafka, Spark, ClickHouse, Airflow, and FastAPI.</p>
-      <a href="https://github.com/BladeStranger04/clickstream-analytics">
+      <a href="https://github.com/vincere-mori/clickstream-analytics">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -121,7 +121,7 @@
     <td width="50%">
       <h3>User_Behavior</h3>
       <p>User behavior forecasting using LSTM and ARIMA for sequence-based analytics and prediction tasks.</p>
-      <a href="https://github.com/BladeStranger04/user-behavior">
+      <a href="https://github.com/vincere-mori/user-behavior">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
