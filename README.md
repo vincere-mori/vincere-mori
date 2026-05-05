@@ -150,6 +150,14 @@ If my open-source work or roadmaps have helped you out, you can support my tea a
 ## Stats
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vincere-mori/vincere-mori/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vincere-mori/vincere-mori/output/github-contribution-grid-snake.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/vincere-mori/vincere-mori/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vincere-mori&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" />
 </p>
 
