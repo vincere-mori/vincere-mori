@@ -84,6 +84,16 @@
 <table>
   <tr>
     <td width="50%">
+      <h3>Marcus</h3>
+      <p>A quiet daily quote app with stoic notes, favorites, PWA install, and desktop/mobile builds.</p>
+      <a href="https://github.com/vincere-mori/marcus-dist/">
+        <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://vincere-mori.github.io/marcus-dist/">
+        <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
       <h3>Lumen</h3>
       <p>A personal discipline tracker built on faith, habit, and scripture.</p>
       <a href="https://github.com/vincere-mori/lumen-dist/">
@@ -93,6 +103,8 @@
         <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>ML Engineer Roadmap</h3>
       <p>Comprehensive guide and curated resources for mastering Machine Learning Engineering.</p>
@@ -100,8 +112,6 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Crypto_Watchdog</h3>
       <p>Async exchange monitoring system handling 100+ events/sec with focus on latency and reliability.</p>
@@ -109,6 +119,8 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Clickstream_Analytics</h3>
       <p>End-to-end clickstream pipeline with Kafka, Spark, ClickHouse, Airflow, and FastAPI.</p>
