@@ -128,8 +128,6 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>User_Behavior</h3>
       <p>User behavior forecasting using LSTM and ARIMA for sequence-based analytics and prediction tasks.</p>
