@@ -135,7 +135,6 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
