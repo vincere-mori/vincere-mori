@@ -40,9 +40,6 @@
 
 ## Stack
 
-<table>
-<tr>
-<td valign="top">
 
 <b>Machine learning</b><br/>
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -80,14 +77,6 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white" />
 
-</td>
-<td valign="top" align="center" width="300">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vincere-mori&theme=github_dark" />
-
-</td>
-</tr>
-</table>
 
 ---
 ## Featured projects
