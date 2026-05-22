@@ -40,49 +40,54 @@
 
 ## Stack
 
-### Machine learning
-<p>
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/xgboost-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/catboost-FFCC00?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/mlflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square" />
-  <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-</p>
+<table>
+<tr>
+<td valign="top">
 
-### Data engineering
-<p>
-  <img src="https://img.shields.io/badge/apache%20spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/clickhouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/greenplum-2ECC71?style=flat-square" />
-  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
+<b>Machine learning</b><br/>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/xgboost-1F6FEB?style=flat-square" />
+<img src="https://img.shields.io/badge/catboost-FFCC00?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/mlflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square" />
+<img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 
-### Backend and general
-<p>
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/sql-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/asyncio-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+<br/><b>Data engineering</b><br/>
+<img src="https://img.shields.io/badge/apache%20spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/apache%20kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/clickhouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/greenplum-2ECC71?style=flat-square" />
+<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
-### Desktop and frontend
-<p>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white" />
-</p>
+<br/><b>Backend and general</b><br/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/sql-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/asyncio-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+<br/><b>Desktop and frontend</b><br/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white" />
+
+</td>
+<td valign="top" align="center" width="300">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vincere-mori&theme=github_dark" />
+
+</td>
+</tr>
+</table>
 
 ---
 ## Featured projects
