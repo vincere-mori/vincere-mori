@@ -172,6 +172,10 @@ Open for freelance, collabs, or just tech talk — reach out on **[Telegram](htt
 ## Stats
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/vincere-mori/vincere-mori/main/profile-3d-contrib/profile-night-rainbow-animate.svg" alt="3D Contribution Calendar" width="100%" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vincere-mori/vincere-mori/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vincere-mori/vincere-mori/output/github-contribution-grid-snake.svg">
@@ -182,10 +186,12 @@ Open for freelance, collabs, or just tech talk — reach out on **[Telegram](htt
 
 ---
 
+<!-- QUOTE_START -->
 <p align="center">
   <em>«и свет во тьме светит, и тьма не объяла его.»</em><br>
   <sup>— от Иоанна 1:5</sup>
 </p>
+<!-- QUOTE_END -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:050510,50:111827,100:2b0a3d&fontColor=ffffff" width="100%" />
