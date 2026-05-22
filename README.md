@@ -34,7 +34,7 @@
 
 ## About
 
-**ITMO University student** building toward ML Engineering. 3 years of commercial experience as a Data Engineer - Spark pipelines, Kafka streaming, Greenplum. Interested in high-load systems, applied ML, and clean data architecture.
+**ITMO University student** building toward ML Engineering. 3 years of commercial experience as a Data Engineer — Spark pipelines, Kafka streaming, Greenplum, Clickhouse. Interested in high-load systems, applied ML, and clean data architecture. Enthusiast and ambassador of love.
 
 ---
 
