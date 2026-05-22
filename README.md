@@ -86,20 +86,20 @@
     <td width="50%">
       <h3>Marcus</h3>
       <p>A quiet daily quote app with stoic notes, favorites, PWA install, and desktop/mobile builds.</p>
-      <a href="https://github.com/vincere-mori/marcus-dist/">
+      <a href="https://github.com/vincere-mori/marcus/">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://vincere-mori.github.io/marcus-dist/">
+      <a href="https://vincere-mori.github.io/marcus/">
         <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
     </td>
     <td width="50%">
       <h3>Lumen</h3>
       <p>A personal discipline tracker built on faith, habit, and scripture.</p>
-      <a href="https://github.com/vincere-mori/lumen-dist/">
+      <a href="https://github.com/vincere-mori/lumen/">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://vincere-mori.github.io/lumen-dist/">
+      <a href="https://vincere-mori.github.io/lumen/">
         <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
     </td>
