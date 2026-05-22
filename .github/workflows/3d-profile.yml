@@ -24,4 +24,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git add -A
           git diff --cached --quiet || git commit -m "chore: update 3D contribution calendar"
+          git pull --rebase
           git push
