@@ -161,10 +161,6 @@ Open for freelance, collabs, or just tech talk — reach out on **[Telegram](htt
 ## Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vincere-mori/vincere-mori/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="65%" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vincere-mori/vincere-mori/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vincere-mori/vincere-mori/output/github-contribution-grid-snake.svg">
