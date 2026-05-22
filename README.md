@@ -118,14 +118,14 @@
   <tr>
     <td width="50%">
       <h3>Clickstream Analytics</h3>
-      <p>End-to-end ML pipeline: Generator → Kafka → Spark → ClickHouse → Airflow → XGBoost → FastAPI.</p>
+      <p>End-to-end ML pipeline: Generator -> Kafka -> Spark -> ClickHouse -> Airflow -> XGBoost -> FastAPI.</p>
       <a href="https://github.com/vincere-mori/clickstream-analytics">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%">
       <h3>User Behavior</h3>
-      <p>Hybrid LSTM + Linear Trend model for hourly user activity forecasting. R² 0.79, MAPE 4%.</p>
+      <p>Hybrid LSTM + Linear Trend model for hourly user activity forecasting. R^2 0.79, MAPE 4%.</p>
       <a href="https://github.com/vincere-mori/user-behavior">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
