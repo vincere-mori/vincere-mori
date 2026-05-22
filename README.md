@@ -40,7 +40,6 @@
 
 ## Stack
 
-
 <b>Machine learning</b><br/>
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
@@ -76,7 +75,6 @@
 <img src="https://img.shields.io/badge/tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white" />
-
 
 ---
 ## Featured projects
