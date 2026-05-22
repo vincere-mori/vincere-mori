@@ -46,8 +46,11 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/xgboost-1F6FEB?style=flat-square" />
   <img src="https://img.shields.io/badge/catboost-FFCC00?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/mlflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 </p>
 
 ### Data engineering
@@ -58,6 +61,7 @@
   <img src="https://img.shields.io/badge/clickhouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/greenplum-2ECC71?style=flat-square" />
+  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 ### Backend and general
@@ -69,6 +73,15 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+### Desktop and frontend
+<p>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white" />
 </p>
 
 ---
@@ -99,6 +112,22 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3>Clickstream Analytics</h3>
+      <p>End-to-end ML pipeline: Generator → Kafka → Spark → ClickHouse → Airflow → XGBoost → FastAPI.</p>
+      <a href="https://github.com/vincere-mori/clickstream-analytics">
+        <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>User Behavior</h3>
+      <p>Hybrid LSTM + Linear Trend model for hourly user activity forecasting. R² 0.79, MAPE 4%.</p>
+      <a href="https://github.com/vincere-mori/user-behavior">
+        <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>ML Engineer Roadmap</h3>
       <p>Comprehensive guide and curated resources for mastering Machine Learning Engineering.</p>
       <a href="https://github.com/vincere-mori/ml-engineer-roadmap">
@@ -106,10 +135,13 @@
       </a>
     </td>
     <td width="50%">
-      <h3>Crypto_Watchdog</h3>
-      <p>Async exchange monitoring system handling 100+ events/sec with focus on latency and reliability.</p>
-      <a href="https://github.com/vincere-mori/crypto-watchdog">
+      <h3>Love</h3>
+      <p>Six generative p5.js postcards — a peony, a constellation, a letter. Personalized via URL params.</p>
+      <a href="https://github.com/vincere-mori/love">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://vincere-mori.github.io/love/">
+        <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
     </td>
   </tr>
