@@ -188,8 +188,8 @@ Open for freelance, collabs, or just tech talk — reach out on **[Telegram](htt
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«и свет во тьме светит, и тьма не объяла его.»</em><br>
-  <sup>— от Иоанна 1:5</sup>
+  <em>«Ты властен над своим разумом, но не над внешними событиями. Осознай это — и обретёшь силу.»</em><br>
+  <sup>— Марк Аврелий</sup>
 </p>
 <!-- QUOTE_END -->
 
