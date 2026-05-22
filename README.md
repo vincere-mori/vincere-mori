@@ -34,14 +34,7 @@
 
 ## About
 
-**ITMO University student** focused on **data engineering**, **machine learning**, and **backend development**
-
-- 3+ years in development
-- 1 year of commercial experience as a **Data Engineer**
-- built ETL pipelines with **Spark**
-- worked with **Kafka** streaming and monitoring
-- designed analytical data marts in **Greenplum**
-- interested in high-load systems, applied ML, and clean data architecture
+**ITMO University student** building toward ML Engineering. 1 year of commercial experience as a Data Engineer — Spark pipelines, Kafka streaming, Greenplum. Interested in high-load systems, applied ML, and clean data architecture.
 
 ---
 
@@ -120,31 +113,14 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3>Clickstream_Analytics</h3>
-      <p>End-to-end clickstream pipeline with Kafka, Spark, ClickHouse, Airflow, and FastAPI.</p>
-      <a href="https://github.com/vincere-mori/clickstream-analytics">
-        <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>User_Behavior</h3>
-      <p>User behavior forecasting using LSTM and ARIMA for sequence-based analytics and prediction tasks.</p>
-      <a href="https://github.com/vincere-mori/user-behavior">
-        <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
 
-## Let's connect & Support
+## Let's connect
 
-For any development inquiries, freelance projects, or just to chat about tech, feel free to reach out to me directly on **[Telegram](https://t.me/vincere_morii)** or **[VK](https://vk.com/vincere_morii)**.
+Open for freelance, collabs, or just tech talk — reach out on **[Telegram](https://t.me/vincere_morii)** or **[VK](https://vk.com/vincere_morii)**.
 
-If my open-source work or roadmaps have helped you out, you can support my tea addiction here:
 <p>
   <a href="https://boosty.to/jsu/donate">
     <img src="https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white" />
@@ -166,9 +142,6 @@ If my open-source work or roadmaps have helped you out, you can support my tea a
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vincere-mori&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" />
-</p>
 
 ---
 
