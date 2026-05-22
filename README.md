@@ -143,9 +143,7 @@
 
 ---
 
-## Let's connect
-
-Open for freelance, collabs, or just tech talk — reach out on **[Telegram](https://t.me/vincere_morii)** or **[VK](https://vk.com/vincere_morii)**.
+Open for freelance, collabs, or just talk — reach me out on **[Telegram](https://t.me/vincere_morii)** or **[VK](https://vk.com/vincere_morii)**.
 
 <p>
   <a href="https://boosty.to/jsu/donate">
@@ -158,7 +156,7 @@ Open for freelance, collabs, or just tech talk — reach out on **[Telegram](htt
 
 ---
 
-## Stats
+## Fun to watch
 
 <p align="center">
   <picture>
@@ -171,12 +169,10 @@ Open for freelance, collabs, or just tech talk — reach out on **[Telegram](htt
 
 ---
 
-<!-- QUOTE_START -->
 <p align="center">
   <em>«Ты властен над своим разумом, но не над внешними событиями. Осознай это — и обретёшь силу.»</em><br>
   <sup>— Марк Аврелий</sup>
 </p>
-<!-- QUOTE_END -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:050510,50:111827,100:2b0a3d&fontColor=ffffff" width="100%" />
