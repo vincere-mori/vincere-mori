@@ -167,10 +167,12 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 ---
 
+<!-- QUOTE_START -->
 <p align="center">
-  <em>«Ты властен над своим разумом, но не над внешними событиями. Осознай это — и обретёшь силу.»</em><br>
-  <sup>— Марк Аврелий</sup>
+ <em>«Ты властен над своим разумом, но не над внешними событиями. Осознай это — и обретёшь силу.»</em><br>
+ <sup>— Марк Аврелий</sup>
 </p>
+<!-- QUOTE_END -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:050510,50:111827,100:2b0a3d&fontColor=ffffff" width="100%" />
