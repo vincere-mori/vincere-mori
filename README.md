@@ -169,8 +169,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Познаете истину, и истина сделает вас свободными.»</em><br>
-  <sup>— от Иоанна 8:32</sup>
+  <em>«Трать время на меньшее число вещей — и сделаешь его лучше.»</em><br>
+  <sup>— Марк Аврелий</sup>
 </p>
 <!-- QUOTE_END -->
 
