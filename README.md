@@ -132,12 +132,24 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3>Stellar Cartography</h3>
+      <p>Interactive WebGL galaxy map with raymarched nebulae, black holes, wormholes and object dossiers.</p>
+      <a href="https://vincere-mori.github.io/stellar-cartography/">
+        <img src="https://img.shields.io/badge/live%20demo-e8943a?style=for-the-badge&logo=githubpages&logoColor=white" />
+      </a>
+      <a href="https://github.com/vincere-mori/stellar-cartography">
+        <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
       <h3>ML Engineer Roadmap</h3>
       <p>Comprehensive guide and curated resources for mastering Machine Learning Engineering.</p>
       <a href="https://github.com/vincere-mori/ml-engineer-roadmap">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Clickstream Analytics</h3>
       <p>End-to-end ML pipeline: Generator -> Kafka -> Spark -> ClickHouse -> Airflow -> XGBoost -> FastAPI.</p>
@@ -145,8 +157,6 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>User Behavior</h3>
       <p>Hybrid LSTM + Linear Trend model for hourly user activity forecasting. R^2 0.79, MAPE 4%.</p>
@@ -154,7 +164,6 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
