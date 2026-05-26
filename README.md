@@ -104,17 +104,23 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>Clickstream Analytics</h3>
-      <p>End-to-end ML pipeline: Generator -> Kafka -> Spark -> ClickHouse -> Airflow -> XGBoost -> FastAPI.</p>
-      <a href="https://github.com/vincere-mori/clickstream-analytics">
+      <h3>Beacon</h3>
+      <p>Minimal VLESS Reality client for Windows, Linux and Android. Own server, local keys, no accounts or telemetry.</p>
+      <a href="https://github.com/vincere-mori/beacon">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/vincere-mori/beacon/releases/latest">
+        <img src="https://img.shields.io/badge/download-1f8f5f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%">
-      <h3>User Behavior</h3>
-      <p>Hybrid LSTM + Linear Trend model for hourly user activity forecasting. R^2 0.79, MAPE 4%.</p>
-      <a href="https://github.com/vincere-mori/user-behavior">
+      <h3>Love</h3>
+      <p>Six generative p5.js postcards: a peony, a constellation, a letter. Personalized via URL params.</p>
+      <a href="https://github.com/vincere-mori/love">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://vincere-mori.github.io/love/">
+        <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -127,15 +133,22 @@
       </a>
     </td>
     <td width="50%">
-      <h3>Love</h3>
-      <p>Six generative p5.js postcards — a peony, a constellation, a letter. Personalized via URL params.</p>
-      <a href="https://github.com/vincere-mori/love">
+      <h3>Clickstream Analytics</h3>
+      <p>End-to-end ML pipeline: Generator -> Kafka -> Spark -> ClickHouse -> Airflow -> XGBoost -> FastAPI.</p>
+      <a href="https://github.com/vincere-mori/clickstream-analytics">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://vincere-mori.github.io/love/">
-        <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>User Behavior</h3>
+      <p>Hybrid LSTM + Linear Trend model for hourly user activity forecasting. R^2 0.79, MAPE 4%.</p>
+      <a href="https://github.com/vincere-mori/user-behavior">
+        <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
