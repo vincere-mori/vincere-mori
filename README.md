@@ -197,8 +197,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Я есмь воскресение и жизнь; верующий в Меня, если и умрёт, оживёт.»</em><br>
-  <sup>— от Иоанна 11:25</sup>
+  <em>«Если Бог за нас, кто против нас?»</em><br>
+  <sup>— Римлянам 8:31</sup>
 </p>
 <!-- QUOTE_END -->
 
