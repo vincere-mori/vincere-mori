@@ -197,8 +197,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«В мире будете иметь скорбь; но мужайтесь: Я победил мир.»</em><br>
-  <sup>— от Иоанна 16:33</sup>
+  <em>«Надежда не постыжает.»</em><br>
+  <sup>— Римлянам 5:5</sup>
 </p>
 <!-- QUOTE_END -->
 
