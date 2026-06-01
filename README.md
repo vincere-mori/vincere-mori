@@ -197,8 +197,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Надежда не постыжает.»</em><br>
-  <sup>— Римлянам 5:5</sup>
+  <em>«Претерпевший же до конца спасётся.»</em><br>
+  <sup>— от Матфея 24:13</sup>
 </p>
 <!-- QUOTE_END -->
 
