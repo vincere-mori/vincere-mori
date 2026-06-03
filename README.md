@@ -197,8 +197,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Терпением вашим спасайте души ваши.»</em><br>
-  <sup>— от Луки 21:19</sup>
+  <em>«Обучай себя тому, чтобы не нуждаться во внешнем.»</em><br>
+  <sup>— Сенека</sup>
 </p>
 <!-- QUOTE_END -->
 
