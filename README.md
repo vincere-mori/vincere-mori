@@ -197,8 +197,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Обучай себя тому, чтобы не нуждаться во внешнем.»</em><br>
-  <sup>— Сенека</sup>
+  <em>«Всё могу в укрепляющем меня Иисусе Христе.»</em><br>
+  <sup>— Филиппийцам 4:13</sup>
 </p>
 <!-- QUOTE_END -->
 
