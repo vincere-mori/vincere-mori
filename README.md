@@ -197,8 +197,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Всё могу в укрепляющем меня Иисусе Христе.»</em><br>
-  <sup>— Филиппийцам 4:13</sup>
+  <em>«Бодрствуйте, стойте в вере, будьте мужественны, тверды.»</em><br>
+  <sup>— 1-е Коринфянам 16:13</sup>
 </p>
 <!-- QUOTE_END -->
 
