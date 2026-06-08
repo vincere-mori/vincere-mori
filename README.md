@@ -197,8 +197,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Познаете истину, и истина сделает вас свободными.»</em><br>
-  <sup>— от Иоанна 8:32</sup>
+  <em>«Господь — свет мой и спасение моё: кого мне бояться?»</em><br>
+  <sup>— Псалтирь 26:1</sup>
 </p>
 <!-- QUOTE_END -->
 
