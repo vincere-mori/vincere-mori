@@ -197,8 +197,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Нет больше той любви, как если кто положит душу свою за друзей своих.»</em><br>
-  <sup>— от Иоанна 15:13</sup>
+  <em>«и свет во тьме светит, и тьма не объяла его.»</em><br>
+  <sup>— от Иоанна 1:5</sup>
 </p>
 <!-- QUOTE_END -->
 
