@@ -110,12 +110,12 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>Beacon</h3>
+      <h3>Mayak</h3>
       <p>Minimal VLESS Reality client for Windows, Linux and Android. Own server, local keys, no accounts or telemetry.</p>
-      <a href="https://github.com/vincere-mori/beacon/releases/latest">
+      <a href="https://github.com/vincere-mori/mayak/releases/latest">
         <img src="https://img.shields.io/badge/download-1f8f5f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://github.com/vincere-mori/beacon">
+      <a href="https://github.com/vincere-mori/mayak">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
