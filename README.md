@@ -197,8 +197,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Я есмь воскресение и жизнь; верующий в Меня, если и умрёт, оживёт.»</em><br>
-  <sup>— от Иоанна 11:25</sup>
+  <em>«Ты властен над своим разумом, но не над внешними событиями. Осознай это — и обретёшь силу.»</em><br>
+  <sup>— Марк Аврелий</sup>
 </p>
 <!-- QUOTE_END -->
 
