@@ -197,8 +197,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Ты властен над своим разумом, но не над внешними событиями. Осознай это — и обретёшь силу.»</em><br>
-  <sup>— Марк Аврелий</sup>
+  <em>«Надежда не постыжает.»</em><br>
+  <sup>— Римлянам 5:5</sup>
 </p>
 <!-- QUOTE_END -->
 
