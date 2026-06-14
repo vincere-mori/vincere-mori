@@ -197,8 +197,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Надежда не постыжает.»</em><br>
-  <sup>— Римлянам 5:5</sup>
+  <em>«Возлюби Господа Бога твоего всем сердцем твоим, и всею душою твоею, и всем разумением твоим.»</em><br>
+  <sup>— от Матфея 22:37</sup>
 </p>
 <!-- QUOTE_END -->
 
