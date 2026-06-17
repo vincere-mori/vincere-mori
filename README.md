@@ -197,8 +197,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«и свет во тьме светит, и тьма не объяла его.»</em><br>
-  <sup>— от Иоанна 1:5</sup>
+  <em>«В мире будете иметь скорбь; но мужайтесь: Я победил мир.»</em><br>
+  <sup>— от Иоанна 16:33</sup>
 </p>
 <!-- QUOTE_END -->
 
