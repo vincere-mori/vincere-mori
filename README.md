@@ -82,6 +82,22 @@
 <table>
   <tr>
     <td width="50%">
+      <h3>Lictor</h3>
+      <p>Aggressive reminders with escalation tiers (MONEO → INSTO → COGO) and an adaptive brain that learns when to push you. PWA + Android.</p>
+      <a href="https://vincere-mori.github.io/lictor/">
+        <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
+      </a>
+      <a href="https://github.com/vincere-mori/lictor/releases/latest">
+        <img src="https://img.shields.io/badge/download-1f8f5f?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/vincere-mori/lictor/">
+        <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>Marcus</h3>
       <p>A quiet daily quote app with stoic notes, favorites, PWA install, and desktop/mobile builds.</p>
       <a href="https://vincere-mori.github.io/marcus/">
