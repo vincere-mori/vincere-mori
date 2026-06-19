@@ -83,7 +83,7 @@
   <tr>
     <td width="50%">
       <h3>Lictor</h3>
-      <p>Aggressive reminders with escalation tiers (MONEO → INSTO → COGO) and an adaptive brain that learns when to push you. PWA + Android.</p>
+      <p>Aggressive reminders with escalation tiers (MONEO -> INSTO -> COGO) and an adaptive brain that learns when to push you. PWA + Android.</p>
       <a href="https://vincere-mori.github.io/lictor/">
         <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
