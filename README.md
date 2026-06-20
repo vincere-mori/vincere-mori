@@ -213,8 +213,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Нет больше той любви, как если кто положит душу свою за друзей своих.»</em><br>
-  <sup>— от Иоанна 15:13</sup>
+  <em>«Начало мудрости — страх Господень.»</em><br>
+  <sup>— Притчи 9:10</sup>
 </p>
 <!-- QUOTE_END -->
 
