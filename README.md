@@ -213,8 +213,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Начало мудрости — страх Господень.»</em><br>
-  <sup>— Притчи 9:10</sup>
+  <em>«Господь — свет мой и спасение моё: кого мне бояться?»</em><br>
+  <sup>— Псалтирь 26:1</sup>
 </p>
 <!-- QUOTE_END -->
 
