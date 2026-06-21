@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vincere-mori&label=souls%20wandered%20in&abbreviated=true&color=2b0a3d&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=vincere-mori&label=pilgrims&abbreviated=true&color=2b0a3d&style=for-the-badge" />
 </p>
 
 ---
