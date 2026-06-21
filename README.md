@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vincere-mori&color=7c3aed&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=vincere-mori&label=souls%20wandered%20in&abbreviated=true&color=2b0a3d&style=for-the-badge" />
 </p>
 
 ---
@@ -194,23 +194,6 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
   <a href="https://pay.cloudtips.ru/p/6c077990">
     <img src="https://img.shields.io/badge/Cloudtips-000000?style=for-the-badge&logo=cloudtips&logoColor=white" />
   </a>
-</p>
-
----
-
-## Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vincere-mori&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincere-mori&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vincere-mori&hide_border=true&background=0d1117&stroke=2b0a3d&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vincere-mori&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
