@@ -213,8 +213,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Господь — свет мой и спасение моё: кого мне бояться?»</em><br>
-  <sup>— Псалтирь 26:1</sup>
+  <em>«Пока я откладываю жизнь — она проходит.»</em><br>
+  <sup>— Сенека</sup>
 </p>
 <!-- QUOTE_END -->
 
