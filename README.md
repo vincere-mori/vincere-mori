@@ -213,8 +213,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Пока я откладываю жизнь — она проходит.»</em><br>
-  <sup>— Сенека</sup>
+  <em>«Люди рождены друг для друга.»</em><br>
+  <sup>— Марк Аврелий</sup>
 </p>
 <!-- QUOTE_END -->
 
