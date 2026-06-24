@@ -84,19 +84,44 @@
     <td width="50%">
       <h3>Lictor</h3>
       <p>Aggressive reminders with escalation tiers (MONEO -> INSTO -> COGO) and an adaptive brain that learns when to push you. PWA + Android.</p>
-      <a href="https://vincere-mori.github.io/lictor/">
-        <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
+      <a href="https://sinemora.vercel.app/">
+        <img src="https://img.shields.io/badge/live%20demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <a href="https://github.com/vincere-mori/lictor/releases/latest">
-        <img src="https://img.shields.io/badge/download-1f8f5f?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/download-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
       </a>
       <a href="https://github.com/vincere-mori/lictor/">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <h3>Versty</h3>
+      <p>Step-budgeted walking routes with local sights, interactive map, and smart metro travel integration.</p>
+      <a href="https://versty.vercel.app/city">
+        <img src="https://img.shields.io/badge/live%20demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/vincere-mori/versty/releases/latest">
+        <img src="https://img.shields.io/badge/download-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
+      </a>
+      <a href="https://github.com/vincere-mori/versty/">
+        <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3>Tonuus</h3>
+      <p>Voice-activated blood pressure diary with history, charts, PDF physician reports, and offline-first storage.</p>
+      <a href="https://tonuus.vercel.app/">
+        <img src="https://img.shields.io/badge/live%20demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://www.rustore.ru/catalog/app/com.tonuus.app">
+        <img src="https://img.shields.io/badge/RuStore-0077FF?style=for-the-badge&logo=rustore&logoColor=white" />
+      </a>
+      <a href="https://github.com/vincere-mori/tonuus/">
+        <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
     <td width="50%">
       <h3>Marcus</h3>
       <p>A quiet daily quote app with stoic notes, favorites, PWA install, and desktop/mobile builds.</p>
@@ -110,6 +135,8 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Lumen</h3>
       <p>A personal discipline tracker built on faith, habit, and scripture.</p>
@@ -123,8 +150,6 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Mayak</h3>
       <p>Minimal VLESS Reality client for Windows, Linux and Android. Own server, local keys, no accounts or telemetry.</p>
@@ -135,6 +160,8 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Love</h3>
       <p>Six generative p5.js postcards: a peony, a constellation, a letter. Personalized via URL params.</p>
@@ -145,8 +172,6 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Stellar Cartography</h3>
       <p>Interactive WebGL galaxy map with raymarched nebulae, black holes, wormholes and object dossiers.</p>
@@ -157,6 +182,8 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>ML Engineer Roadmap</h3>
       <p>Comprehensive guide and curated resources for mastering Machine Learning Engineering.</p>
@@ -164,8 +191,6 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Clickstream Analytics</h3>
       <p>End-to-end ML pipeline: Generator -> Kafka -> Spark -> ClickHouse -> Airflow -> XGBoost -> FastAPI.</p>
@@ -173,12 +198,16 @@
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>User Behavior</h3>
       <p>Hybrid LSTM + Linear Trend model for hourly user activity forecasting. R^2 0.79, MAPE 4%.</p>
       <a href="https://github.com/vincere-mori/user-behavior">
         <img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
