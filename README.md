@@ -199,9 +199,6 @@
 Open for freelance, collabs, or just talk — reach me out on **[Telegram](https://t.me/vincere_morii)** or **[VK](https://vk.com/vincere_morii)**.
 
 <p>
-  <a href="https://boosty.to/jsu/donate">
-    <img src="https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white" />
-  </a>
   <a href="https://pay.cloudtips.ru/p/6c077990">
     <img src="https://img.shields.io/badge/Cloudtips-000000?style=for-the-badge&logo=cloudtips&logoColor=white" />
   </a>
