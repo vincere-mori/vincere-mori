@@ -97,7 +97,7 @@
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/versty/">Versty</a></h3>
       <p>Step-budgeted walking routes with local sights, interactive map, and smart metro travel integration.</p>
-      <a href="https://versty.vercel.app/city">
+      <a href="https://versty.vercel.app/">
         <img src="https://img.shields.io/badge/live%20demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <a href="https://github.com/vincere-mori/versty/releases/latest">
