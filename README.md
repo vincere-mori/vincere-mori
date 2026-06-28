@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Пока я откладываю жизнь — она проходит.»</em><br>
-  <sup>— Сенека</sup>
+  <em>«Делай что должен, и будь что будет.»</em><br>
+  <sup>— Марк Аврелий</sup>
 </p>
 <!-- QUOTE_END -->
 
