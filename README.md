@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Делай что должен, и будь что будет.»</em><br>
-  <sup>— Марк Аврелий</sup>
+  <em>«Если бы мы делали всё, на что способны, мы бы буквально поразили себя.»</em><br>
+  <sup>— Томас Эдисон</sup>
 </p>
 <!-- QUOTE_END -->
 
