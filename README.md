@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«В глубине зимы я наконец понял, что внутри меня живет непобедимое лето.»</em><br>
-  <sup>— Альберт Камю</sup>
+  <em>«Препятствие на пути становится путём.»</em><br>
+  <sup>— Марк Аврелий</sup>
 </p>
 <!-- QUOTE_END -->
 
