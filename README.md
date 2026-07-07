@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Трать время на меньшее число вещей — и сделаешь его лучше.»</em><br>
-  <sup>— Марк Аврелий</sup>
+  <em>«Пока я откладываю жизнь — она проходит.»</em><br>
+  <sup>— Сенека</sup>
 </p>
 <!-- QUOTE_END -->
 
