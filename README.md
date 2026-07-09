@@ -221,7 +221,7 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Ещё не всё потеряно, пока есть жизнь.»</em><br>
+  <em>«Пока я откладываю жизнь — она проходит.»</em><br>
   <sup>— Сенека</sup>
 </p>
 <!-- QUOTE_END -->
