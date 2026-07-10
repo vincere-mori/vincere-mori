@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Пока я откладываю жизнь — она проходит.»</em><br>
-  <sup>— Сенека</sup>
+  <em>«У кого есть «Зачем» жить, выдержит почти любое «Как».»</em><br>
+  <sup>— Виктор Франкл</sup>
 </p>
 <!-- QUOTE_END -->
 
