@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«У кого есть «Зачем» жить, выдержит почти любое «Как».»</em><br>
-  <sup>— Виктор Франкл</sup>
+  <em>«И свет во тьме светит, и тьма не объяла его.»</em><br>
+  <sup>— От Иоанна 1:5</sup>
 </p>
 <!-- QUOTE_END -->
 
