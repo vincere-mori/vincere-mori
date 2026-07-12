@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«И свет во тьме светит, и тьма не объяла его.»</em><br>
-  <sup>— От Иоанна 1:5</sup>
+  <em>«Делай что должен, и будь что будет.»</em><br>
+  <sup>— Марк Аврелий</sup>
 </p>
 <!-- QUOTE_END -->
 
