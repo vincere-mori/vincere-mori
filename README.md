@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Нет больше той любви, как если кто положит душу свою за друзей своих.»</em><br>
-  <sup>— От Иоанна 15:13</sup>
+  <em>«Мы — это способ Вселенной познать саму себя.»</em><br>
+  <sup>— Карл Саган</sup>
 </p>
 <!-- QUOTE_END -->
 
