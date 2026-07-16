@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Те, кто достаточно сумасшедшие, чтобы думать, что они могут изменить мир, меняют его.»</em><br>
-  <sup>— Стив Джобс</sup>
+  <em>«В глубине зимы я наконец понял, что внутри меня живет непобедимое лето.»</em><br>
+  <sup>— Альберт Камю</sup>
 </p>
 <!-- QUOTE_END -->
 
