@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«В глубине зимы я наконец понял, что внутри меня живет непобедимое лето.»</em><br>
-  <sup>— Альберт Камю</sup>
+  <em>«Познаете истину, и истина сделает вас свободными.»</em><br>
+  <sup>— От Иоанна 8:32</sup>
 </p>
 <!-- QUOTE_END -->
 
