@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Познаете истину, и истина сделает вас свободными.»</em><br>
-  <sup>— От Иоанна 8:32</sup>
+  <em>«Ещё не всё потеряно, пока есть жизнь.»</em><br>
+  <sup>— Сенека</sup>
 </p>
 <!-- QUOTE_END -->
 
