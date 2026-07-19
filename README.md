@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Ещё не всё потеряно, пока есть жизнь.»</em><br>
-  <sup>— Сенека</sup>
+  <em>«Живи так, словно умираешь, и так, словно только рождён.»</em><br>
+  <sup>— Марк Аврелий</sup>
 </p>
 <!-- QUOTE_END -->
 
