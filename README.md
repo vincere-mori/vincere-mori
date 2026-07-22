@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Никогда не говори, что потерял это. Скажи, что вернул.»</em><br>
-  <sup>— Эпиктет</sup>
+  <em>«Трать время на меньшее число вещей — и сделаешь его лучше.»</em><br>
+  <sup>— Марк Аврелий</sup>
 </p>
 <!-- QUOTE_END -->
 
