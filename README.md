@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Препятствие на пути становится путём.»</em><br>
-  <sup>— Марк Аврелий</sup>
+  <em>«Где-то там ждет своего открытия что-то невероятное.»</em><br>
+  <sup>— Карл Саган</sup>
 </p>
 <!-- QUOTE_END -->
 
