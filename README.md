@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Где-то там ждет своего открытия что-то невероятное.»</em><br>
-  <sup>— Карл Саган</sup>
+  <em>«Постарайтесь оставить этот мир чуточку лучшим, чем вы его нашли.»</em><br>
+  <sup>— Роберт Баден-Пауэлл</sup>
 </p>
 <!-- QUOTE_END -->
 
