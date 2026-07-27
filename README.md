@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Никогда не говори, что потерял это. Скажи, что вернул.»</em><br>
-  <sup>— Эпиктет</sup>
+  <em>«Познаете истину, и истина сделает вас свободными.»</em><br>
+  <sup>— От Иоанна 8:32</sup>
 </p>
 <!-- QUOTE_END -->
 
