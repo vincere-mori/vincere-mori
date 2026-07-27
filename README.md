@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>«Познаете истину, и истина сделает вас свободными.»</em><br>
-  <sup>— От Иоанна 8:32</sup>
+  <em>“We suffer not from what happens to us, but from what we think about it.”</em><br>
+  <sup>— Epictetus</sup>
 </p>
 <!-- QUOTE_END -->
 

@@ -16,7 +16,7 @@ q = random.choice(available)
 
 block = (
     f'\n<p align="center">\n'
-    f'  <em>«{q["text"]}»</em><br>\n'
+    f'  <em>“{q["text"]}”</em><br>\n'
     f'  <sup>— {q["source"]}</sup>\n'
     f'</p>\n'
 )
