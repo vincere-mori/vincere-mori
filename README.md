@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“We suffer not from what happens to us, but from what we think about it.”</em><br>
-  <sup>— Epictetus</sup>
+  <em>“And the light shineth in darkness; and the darkness comprehended it not.”</em><br>
+  <sup>— John 1:5</sup>
 </p>
 <!-- QUOTE_END -->
 
