@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“And the light shineth in darkness; and the darkness comprehended it not.”</em><br>
-  <sup>— John 1:5</sup>
+  <em>“It is only with the heart that one can see rightly. What is essential is invisible to the eye.”</em><br>
+  <sup>— Antoine de Saint-Exupéry</sup>
 </p>
 <!-- QUOTE_END -->
 
