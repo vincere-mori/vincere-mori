@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“It is only with the heart that one can see rightly. What is essential is invisible to the eye.”</em><br>
-  <sup>— Antoine de Saint-Exupéry</sup>
+  <em>“He who has a why to live for can bear almost any how.”</em><br>
+  <sup>— Viktor Frankl</sup>
 </p>
 <!-- QUOTE_END -->
 
