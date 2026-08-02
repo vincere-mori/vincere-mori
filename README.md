@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“What stands in the way becomes the way.”</em><br>
-  <sup>— Marcus Aurelius</sup>
+  <em>“And the light shineth in darkness; and the darkness comprehended it not.”</em><br>
+  <sup>— John 1:5</sup>
 </p>
 <!-- QUOTE_END -->
 
