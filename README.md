@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“What stands in the way becomes the way.”</em><br>
-  <sup>— Marcus Aurelius</sup>
+  <em>“Try and leave this world a little better than you found it.”</em><br>
+  <sup>— Robert Baden-Powell</sup>
 </p>
 <!-- QUOTE_END -->
 
