@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“The people who are crazy enough to think they can change the world are the ones who do.”</em><br>
-  <sup>— Steve Jobs</sup>
+  <em>“If we did all the things we are capable of, we would literally astound ourselves.”</em><br>
+  <sup>— Thomas Edison</sup>
 </p>
 <!-- QUOTE_END -->
 
