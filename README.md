@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“While we are postponing life, it passes by.”</em><br>
-  <sup>— Seneca</sup>
+  <em>“And ye shall know the truth, and the truth shall make you free.”</em><br>
+  <sup>— John 8:32</sup>
 </p>
 <!-- QUOTE_END -->
 
