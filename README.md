@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“You have power over your mind, not over outside events. Realize this, and you will find strength.”</em><br>
-  <sup>— Marcus Aurelius</sup>
+  <em>“It is only with the heart that one can see rightly. What is essential is invisible to the eye.”</em><br>
+  <sup>— Antoine de Saint-Exupéry</sup>
 </p>
 <!-- QUOTE_END -->
 
