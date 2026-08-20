@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Never say of anything that you have lost it. Say that you have given it back.”</em><br>
-  <sup>— Epictetus</sup>
+  <em>“He who has a why to live for can bear almost any how.”</em><br>
+  <sup>— Viktor Frankl</sup>
 </p>
 <!-- QUOTE_END -->
 
