@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“The people who are crazy enough to think they can change the world are the ones who do.”</em><br>
-  <sup>— Steve Jobs</sup>
+  <em>“Somewhere, something incredible is waiting to be known.”</em><br>
+  <sup>— Carl Sagan</sup>
 </p>
 <!-- QUOTE_END -->
 
