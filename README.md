@@ -221,8 +221,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Somewhere, something incredible is waiting to be known.”</em><br>
-  <sup>— Carl Sagan</sup>
+  <em>“Do less, better.”</em><br>
+  <sup>— Marcus Aurelius</sup>
 </p>
 <!-- QUOTE_END -->
 
