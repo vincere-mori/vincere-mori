@@ -30,6 +30,10 @@
   <img src="https://komarev.com/ghpvc/?username=vincere-mori&label=piligrims&abbreviated=true&color=2b0a3d&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vincere-mori/vincere-mori/main/assets/david.svg" alt="head of David, drawn line by line" width="380" />
+</p>
+
 ---
 
 ## About
