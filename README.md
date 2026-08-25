@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Do what you must, and come what may.”</em><br>
-  <sup>— Marcus Aurelius</sup>
+  <em>“The cosmos is within us. We are made of star-stuff.”</em><br>
+  <sup>— Carl Sagan</sup>
 </p>
 <!-- QUOTE_END -->
 
