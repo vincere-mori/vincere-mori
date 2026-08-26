@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“The cosmos is within us. We are made of star-stuff.”</em><br>
-  <sup>— Carl Sagan</sup>
+  <em>“For I know the thoughts that I think toward you, thoughts of peace, and not of evil.”</em><br>
+  <sup>— Jeremiah 29:11</sup>
 </p>
 <!-- QUOTE_END -->
 
