@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“For I know the thoughts that I think toward you, thoughts of peace, and not of evil.”</em><br>
-  <sup>— Jeremiah 29:11</sup>
+  <em>“Live as though you were dying, and as though you had just been born.”</em><br>
+  <sup>— Marcus Aurelius</sup>
 </p>
 <!-- QUOTE_END -->
 
