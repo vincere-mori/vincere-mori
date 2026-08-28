@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Live as though you were dying, and as though you had just been born.”</em><br>
-  <sup>— Marcus Aurelius</sup>
+  <em>“We are a way for the cosmos to know itself.”</em><br>
+  <sup>— Carl Sagan</sup>
 </p>
 <!-- QUOTE_END -->
 
