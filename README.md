@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“We are a way for the cosmos to know itself.”</em><br>
-  <sup>— Carl Sagan</sup>
+  <em>“Everything can be taken from a man but one thing: to choose one's attitude in any given set of circumstances.”</em><br>
+  <sup>— Viktor Frankl</sup>
 </p>
 <!-- QUOTE_END -->
 
