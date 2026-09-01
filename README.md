@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“We are just an advanced breed of monkeys on a minor planet. But we can understand the Universe.”</em><br>
-  <sup>— Stephen Hawking</sup>
+  <em>“In the depth of winter, I finally learned that within me there lay an invincible summer.”</em><br>
+  <sup>— Albert Camus</sup>
 </p>
 <!-- QUOTE_END -->
 
