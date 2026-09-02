@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“In the depth of winter, I finally learned that within me there lay an invincible summer.”</em><br>
-  <sup>— Albert Camus</sup>
+  <em>“Waste no more time arguing about what a good man should be. Be one.”</em><br>
+  <sup>— Marcus Aurelius</sup>
 </p>
 <!-- QUOTE_END -->
 
