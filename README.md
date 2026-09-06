@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“We are just an advanced breed of monkeys on a minor planet. But we can understand the Universe.”</em><br>
-  <sup>— Stephen Hawking</sup>
+  <em>“Be strong and of a good courage; fear not, nor be afraid.”</em><br>
+  <sup>— Deuteronomy 31:6</sup>
 </p>
 <!-- QUOTE_END -->
 
