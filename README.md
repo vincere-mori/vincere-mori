@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Be strong and of a good courage; fear not, nor be afraid.”</em><br>
-  <sup>— Deuteronomy 31:6</sup>
+  <em>“The mass of men lead lives of quiet desperation.”</em><br>
+  <sup>— Henry David Thoreau</sup>
 </p>
 <!-- QUOTE_END -->
 
