@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“The cosmos is within us. We are made of star-stuff.”</em><br>
-  <sup>— Carl Sagan</sup>
+  <em>“The people who are crazy enough to think they can change the world are the ones who do.”</em><br>
+  <sup>— Steve Jobs</sup>
 </p>
 <!-- QUOTE_END -->
 
