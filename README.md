@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“The unexamined life is not worth living.”</em><br>
-  <sup>— Socrates</sup>
+  <em>“And the light shineth in darkness; and the darkness comprehended it not.”</em><br>
+  <sup>— John 1:5</sup>
 </p>
 <!-- QUOTE_END -->
 
