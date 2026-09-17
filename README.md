@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“He who has a why to live for can bear almost any how.”</em><br>
-  <sup>— Viktor Frankl</sup>
+  <em>“The mass of men lead lives of quiet desperation.”</em><br>
+  <sup>— Henry David Thoreau</sup>
 </p>
 <!-- QUOTE_END -->
 
