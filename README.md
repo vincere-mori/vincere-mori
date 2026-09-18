@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“The mass of men lead lives of quiet desperation.”</em><br>
-  <sup>— Henry David Thoreau</sup>
+  <em>“Casting all your care upon him; for he careth for you.”</em><br>
+  <sup>— 1 Peter 5:7</sup>
 </p>
 <!-- QUOTE_END -->
 
