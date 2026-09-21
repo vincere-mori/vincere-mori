@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Try and leave this world a little better than you found it.”</em><br>
-  <sup>— Robert Baden-Powell</sup>
+  <em>“Not everything that is faced can be changed, but nothing can be changed until it is faced.”</em><br>
+  <sup>— James Baldwin</sup>
 </p>
 <!-- QUOTE_END -->
 
