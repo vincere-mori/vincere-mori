@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Not everything that is faced can be changed, but nothing can be changed until it is faced.”</em><br>
-  <sup>— James Baldwin</sup>
+  <em>“You have power over your mind, not over outside events. Realize this, and you will find strength.”</em><br>
+  <sup>— Marcus Aurelius</sup>
 </p>
 <!-- QUOTE_END -->
 
