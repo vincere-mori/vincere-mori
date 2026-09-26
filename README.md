@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“And ye shall know the truth, and the truth shall make you free.”</em><br>
-  <sup>— John 8:32</sup>
+  <em>“Live as though you were dying, and as though you had just been born.”</em><br>
+  <sup>— Marcus Aurelius</sup>
 </p>
 <!-- QUOTE_END -->
 
