@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“We have two ears and one mouth, so that we can listen twice as much as we speak.”</em><br>
-  <sup>— Zeno of Citium</sup>
+  <em>“Live as though you were dying, and as though you had just been born.”</em><br>
+  <sup>— Marcus Aurelius</sup>
 </p>
 <!-- QUOTE_END -->
 
