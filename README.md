@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.”</em><br>
-  <sup>— Isaiah 40:31</sup>
+  <em>“We are all in the gutter, but some of us are looking at the stars.”</em><br>
+  <sup>— Oscar Wilde</sup>
 </p>
 <!-- QUOTE_END -->
 
