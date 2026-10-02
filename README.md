@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“We are all in the gutter, but some of us are looking at the stars.”</em><br>
-  <sup>— Oscar Wilde</sup>
+  <em>“Waste no more time arguing about what a good man should be. Be one.”</em><br>
+  <sup>— Marcus Aurelius</sup>
 </p>
 <!-- QUOTE_END -->
 
