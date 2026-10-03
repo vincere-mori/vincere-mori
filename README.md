@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Waste no more time arguing about what a good man should be. Be one.”</em><br>
-  <sup>— Marcus Aurelius</sup>
+  <em>“They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.”</em><br>
+  <sup>— Isaiah 40:31</sup>
 </p>
 <!-- QUOTE_END -->
 
