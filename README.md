@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“It is not the man who has too little, but the man who craves more, that is poor.”</em><br>
-  <sup>— Seneca</sup>
+  <em>“The cosmos is within us. We are made of star-stuff.”</em><br>
+  <sup>— Carl Sagan</sup>
 </p>
 <!-- QUOTE_END -->
 
