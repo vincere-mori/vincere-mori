@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“If we did all the things we are capable of, we would literally astound ourselves.”</em><br>
-  <sup>— Thomas Edison</sup>
+  <em>“Be strong and of a good courage; fear not, nor be afraid.”</em><br>
+  <sup>— Deuteronomy 31:6</sup>
 </p>
 <!-- QUOTE_END -->
 
