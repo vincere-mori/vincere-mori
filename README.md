@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“They that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles.”</em><br>
-  <sup>— Isaiah 40:31</sup>
+  <em>“Greater love hath no man than this, that a man lay down his life for his friends.”</em><br>
+  <sup>— John 15:13</sup>
 </p>
 <!-- QUOTE_END -->
 
