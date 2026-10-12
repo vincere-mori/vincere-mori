@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“We are all in the gutter, but some of us are looking at the stars.”</em><br>
-  <sup>— Oscar Wilde</sup>
+  <em>“Never say of anything that you have lost it. Say that you have given it back.”</em><br>
+  <sup>— Epictetus</sup>
 </p>
 <!-- QUOTE_END -->
 
