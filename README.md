@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Never say of anything that you have lost it. Say that you have given it back.”</em><br>
-  <sup>— Epictetus</sup>
+  <em>“Not everything that is faced can be changed, but nothing can be changed until it is faced.”</em><br>
+  <sup>— James Baldwin</sup>
 </p>
 <!-- QUOTE_END -->
 
