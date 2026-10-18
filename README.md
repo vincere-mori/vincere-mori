@@ -225,7 +225,7 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“You have power over your mind, not over outside events. Realize this, and you will find strength.”</em><br>
+  <em>“What stands in the way becomes the way.”</em><br>
   <sup>— Marcus Aurelius</sup>
 </p>
 <!-- QUOTE_END -->
