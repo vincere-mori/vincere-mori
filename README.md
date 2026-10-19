@@ -225,8 +225,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Not everything that is faced can be changed, but nothing can be changed until it is faced.”</em><br>
-  <sup>— James Baldwin</sup>
+  <em>“Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself.”</em><br>
+  <sup>— Matthew 6:34</sup>
 </p>
 <!-- QUOTE_END -->
 
