@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <b>Русский</b> | <a href="README.en.md">English</a>
+</p>
+
+<p align="center">
   <a href="https://t.me/vincere_morii">
     <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -32,15 +36,15 @@
 
 ---
 
-## About
+## Обо мне
 
-**ITMO University student** building toward ML Engineering. 3 years of commercial experience as a Data Engineer — Spark pipelines, Kafka streaming, Greenplum, Clickhouse. Interested in high-load systems, applied ML, and clean data architecture. Enthusiast, builder of small, meaningful things
+**Data Engineer** с 3 годами коммерческого опыта: пайплайны на Spark, стриминг на Kafka, Greenplum, ClickHouse. Сейчас развиваюсь в сторону ML Engineering. В фокусе высоконагруженные системы, прикладной ML и чистая архитектура данных. Учился в ИТМО. В свободное время делаю небольшие, но осмысленные продукты.
 
 ---
 
-## Stack
+## Стек
 
-<b>Machine learning</b><br/>
+<b>Машинное обучение</b><br/>
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/xgboost-1F6FEB?style=flat-square" />
@@ -51,7 +55,7 @@
 <img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square" />
 <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 
-<br/><b>Data engineering</b><br/>
+<br/><b>Инженерия данных</b><br/>
 <img src="https://img.shields.io/badge/apache%20spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
@@ -60,7 +64,7 @@
 <img src="https://img.shields.io/badge/greenplum-2ECC71?style=flat-square" />
 <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
-<br/><b>Backend and general</b><br/>
+<br/><b>Бэкенд и общее</b><br/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/sql-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -69,7 +73,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
-<br/><b>Desktop and frontend</b><br/>
+<br/><b>Десктоп и фронтенд</b><br/>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
@@ -77,18 +81,18 @@
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white" />
 
 ---
-## Featured projects
+## Проекты
 
 <table>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/lictor/">Lictor</a></h3>
-      <p>Aggressive reminders with escalation tiers (MONEO -> INSTO -> COGO) and an adaptive brain that learns when to push you. PWA + Android.</p>
+      <p>Настойчивые напоминания с уровнями эскалации (MONEO -> INSTO -> COGO) и адаптивным мозгом, который учится, когда на тебя надавить. PWA + Android.</p>
       <a href="https://sinemora.vercel.app/">
-        <img src="https://img.shields.io/badge/live%20demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D0%B4%D0%B5%D0%BC%D0%BE-000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <a href="https://github.com/vincere-mori/lictor/releases/latest">
-        <img src="https://img.shields.io/badge/download-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
       </a>
       <a href="https://www.rustore.ru/catalog/app/com.vinceremori.lictor">
         <img src="https://img.shields.io/badge/RuStore-0077FF?style=for-the-badge&logo=rustore&logoColor=white" />
@@ -96,12 +100,12 @@
     </td>
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/versty/">Versty</a></h3>
-      <p>Step-budgeted walking routes with local sights, interactive map, and smart metro travel integration.</p>
+      <p>Прогулочные маршруты под бюджет шагов с достопримечательностями, интерактивной картой и умными пересадками на метро.</p>
       <a href="https://versty.vercel.app/">
-        <img src="https://img.shields.io/badge/live%20demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D0%B4%D0%B5%D0%BC%D0%BE-000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <a href="https://github.com/vincere-mori/versty/releases/latest">
-        <img src="https://img.shields.io/badge/download-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
       </a>
       <a href="https://www.rustore.ru/catalog/app/com.vinceremori.versty">
         <img src="https://img.shields.io/badge/RuStore-0077FF?style=for-the-badge&logo=rustore&logoColor=white" />
@@ -111,12 +115,12 @@
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/tonuus/">Tonuus</a></h3>
-      <p>Voice-activated blood pressure diary with history, charts, PDF physician reports, and offline-first storage.</p>
+      <p>Дневник давления с голосовым вводом: история, графики, PDF-отчёты для врача и работа офлайн.</p>
       <a href="https://tonuus.vercel.app/">
-        <img src="https://img.shields.io/badge/live%20demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D0%B4%D0%B5%D0%BC%D0%BE-000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <a href="https://github.com/vincere-mori/tonuus/releases/latest">
-        <img src="https://img.shields.io/badge/download-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
       </a>
       <a href="https://www.rustore.ru/catalog/app/com.tonuus.app">
         <img src="https://img.shields.io/badge/RuStore-0077FF?style=for-the-badge&logo=rustore&logoColor=white" />
@@ -124,12 +128,12 @@
     </td>
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/marcus/">Marcus</a></h3>
-      <p>A quiet daily quote app with stoic notes, favorites, PWA install, and desktop/mobile builds.</p>
+      <p>Тихое приложение с цитатой на каждый день: стоические заметки, избранное, установка как PWA, сборки для десктопа и телефона.</p>
       <a href="https://vincere-mori.github.io/marcus/">
-        <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D0%B4%D0%B5%D0%BC%D0%BE-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
       <a href="https://github.com/vincere-mori/marcus/releases/latest">
-        <img src="https://img.shields.io/badge/download-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
       </a>
       <a href="https://www.rustore.ru/catalog/app/com.vinceremori.marcus">
         <img src="https://img.shields.io/badge/RuStore-0077FF?style=for-the-badge&logo=rustore&logoColor=white" />
@@ -139,12 +143,12 @@
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/lumen/">Lumen</a></h3>
-      <p>A personal discipline tracker built on faith, habit, and scripture.</p>
+      <p>Личный трекер дисциплины на вере, привычках и Писании.</p>
       <a href="https://vincere-mori.github.io/lumen/">
-        <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D0%B4%D0%B5%D0%BC%D0%BE-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
       <a href="https://github.com/vincere-mori/lumen/releases/latest">
-        <img src="https://img.shields.io/badge/download-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
       </a>
       <a href="https://www.rustore.ru/catalog/app/com.vinceremori.lumen">
         <img src="https://img.shields.io/badge/RuStore-0077FF?style=for-the-badge&logo=rustore&logoColor=white" />
@@ -152,42 +156,42 @@
     </td>
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/mayak/">Mayak</a></h3>
-      <p>Minimal VLESS Reality client for Windows, Linux and Android. Own server, local keys, no accounts or telemetry.</p>
+      <p>Минималистичный VLESS Reality клиент для Windows, Linux и Android. Свой сервер, ключи локально, без аккаунтов и телеметрии.</p>
       <a href="https://github.com/vincere-mori/mayak/releases/latest">
-        <img src="https://img.shields.io/badge/download-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-1f8f5f?style=for-the-badge&logo=android&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/love/">Love</a></h3>
-      <p>Six generative p5.js postcards: a peony, a constellation, a letter. Personalized via URL params.</p>
+      <p>Шесть генеративных открыток на p5.js: пион, созвездие, письмо. Персонализация через параметры URL.</p>
       <a href="https://vincere-mori.github.io/love/">
-        <img src="https://img.shields.io/badge/live%20demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D0%B4%D0%B5%D0%BC%D0%BE-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/stellar-cartography/">Stellar Cartography</a></h3>
-      <p>Interactive WebGL galaxy map with raymarched nebulae, black holes, wormholes and object dossiers.</p>
+      <p>Интерактивная карта галактики на WebGL: туманности на raymarching, чёрные дыры, кротовые норы и досье на объекты.</p>
       <a href="https://vincere-mori.github.io/stellar-cartography/">
-        <img src="https://img.shields.io/badge/live%20demo-e8943a?style=for-the-badge&logo=githubpages&logoColor=white" />
+        <img src="https://img.shields.io/badge/%D0%B4%D0%B5%D0%BC%D0%BE-e8943a?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/ml-engineer-roadmap/">ML Engineer Roadmap</a></h3>
-      <p>Comprehensive guide and curated resources for mastering Machine Learning Engineering.</p>
+      <p>Подробный гайд и подборка материалов для освоения ML Engineering.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/clickstream-analytics/">Clickstream Analytics</a></h3>
-      <p>End-to-end ML pipeline: Generator -> Kafka -> Spark -> ClickHouse -> Airflow -> XGBoost -> FastAPI.</p>
+      <p>Сквозной ML-пайплайн: Generator -> Kafka -> Spark -> ClickHouse -> Airflow -> XGBoost -> FastAPI.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/user-behavior/">User Behavior</a></h3>
-      <p>Hybrid LSTM + Linear Trend model for hourly user activity forecasting. R^2 0.79, MAPE 4%.</p>
+      <p>Гибридная модель LSTM + линейный тренд для почасового прогноза активности пользователей. R^2 0.79, MAPE 4%.</p>
     </td>
     <td width="50%">
     </td>
@@ -196,7 +200,7 @@
 
 ---
 
-Open for freelance, collabs, or just talk — reach me out on **[Telegram](https://t.me/vincere_morii)** or **[VK](https://vk.com/vincere_morii)**.
+Открыт для фриланса, совместных проектов или просто разговора, пиши в **[Telegram](https://t.me/vincere_morii)** или **[ВК](https://vk.com/vincere_morii)**.
 
 <p>
   <a href="https://pay.cloudtips.ru/p/6c077990">
@@ -206,7 +210,7 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 ---
 
-## Fun to watch
+## Залипательно
 
 <p align="center">
   <picture>
@@ -220,13 +224,13 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vincere-mori/vincere-mori/main/assets/mandylion.svg" alt="The Saviour Not Made by Hands, drawn ring by ring" width="380" />
+  <img src="https://raw.githubusercontent.com/vincere-mori/vincere-mori/main/assets/mandylion.svg" alt="Спас Нерукотворный, нарисованный кольцо за кольцом" width="380" />
 </p>
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself.”</em><br>
-  <sup>— Matthew 6:34</sup>
+  <em>“Подвигом добрым я подвизался, течение совершил, веру сохранил.”</em><br>
+  <sup>— 2 Тимофею 4:7</sup>
 </p>
 <!-- QUOTE_END -->
 

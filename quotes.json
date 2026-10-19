@@ -1,130 +1,194 @@
 [
   {
     "text": "And the light shineth in darkness; and the darkness comprehended it not.",
-    "source": "John 1:5"
+    "source": "John 1:5",
+    "text_ru": "И свет во тьме светит, и тьма не объяла его.",
+    "source_ru": "Иоанн 1:5"
   },
   {
     "text": "And ye shall know the truth, and the truth shall make you free.",
-    "source": "John 8:32"
+    "source": "John 8:32",
+    "text_ru": "И познаете истину, и истина сделает вас свободными.",
+    "source_ru": "Иоанн 8:32"
   },
   {
     "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
-    "source": "John 15:13"
+    "source": "John 15:13",
+    "text_ru": "Нет больше той любви, как если кто положит душу свою за друзей своих.",
+    "source_ru": "Иоанн 15:13"
   },
   {
     "text": "Be strong and of a good courage; fear not, nor be afraid.",
-    "source": "Deuteronomy 31:6"
+    "source": "Deuteronomy 31:6",
+    "text_ru": "Будьте тверды и мужественны, не бойтесь и не страшитесь.",
+    "source_ru": "Второзаконие 31:6"
   },
   {
     "text": "To every thing there is a season, and a time to every purpose under the heaven.",
-    "source": "Ecclesiastes 3:1"
+    "source": "Ecclesiastes 3:1",
+    "text_ru": "Всему свое время, и время всякой вещи под небом.",
+    "source_ru": "Екклесиаст 3:1"
   },
   {
     "text": "Whatsoever thy hand findeth to do, do it with thy might.",
-    "source": "Ecclesiastes 9:10"
+    "source": "Ecclesiastes 9:10",
+    "text_ru": "Все, что может рука твоя делать, по силам делай.",
+    "source_ru": "Екклесиаст 9:10"
   },
   {
     "text": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.",
-    "source": "Ecclesiastes 11:4"
+    "source": "Ecclesiastes 11:4",
+    "text_ru": "Кто наблюдает ветер, тому не сеять; и кто смотрит на облака, тому не жать.",
+    "source_ru": "Екклесиаст 11:4"
   },
   {
     "text": "Two are better than one; because they have a good reward for their labour.",
-    "source": "Ecclesiastes 4:9"
+    "source": "Ecclesiastes 4:9",
+    "text_ru": "Двоим лучше, нежели одному; потому что у них есть доброе вознаграждение в труде их.",
+    "source_ru": "Екклесиаст 4:9"
   },
   {
     "text": "Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.",
-    "source": "Ecclesiastes 7:8"
+    "source": "Ecclesiastes 7:8",
+    "text_ru": "Конец дела лучше начала его; терпеливый лучше высокомерного.",
+    "source_ru": "Екклесиаст 7:8"
   },
   {
     "text": "Keep thy heart with all diligence; for out of it are the issues of life.",
-    "source": "Proverbs 4:23"
+    "source": "Proverbs 4:23",
+    "text_ru": "Больше всего хранимого храни сердце твое, потому что из него источники жизни.",
+    "source_ru": "Притчи 4:23"
   },
   {
     "text": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.",
-    "source": "Proverbs 27:17"
+    "source": "Proverbs 27:17",
+    "text_ru": "Железо железо острит, и человек изощряет взгляд друга своего.",
+    "source_ru": "Притчи 27:17"
   },
   {
     "text": "A soft answer turneth away wrath: but grievous words stir up anger.",
-    "source": "Proverbs 15:1"
+    "source": "Proverbs 15:1",
+    "text_ru": "Кроткий ответ отвращает гнев, а оскорбительное слово возбуждает ярость.",
+    "source_ru": "Притчи 15:1"
   },
   {
     "text": "He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.",
-    "source": "Proverbs 16:32"
+    "source": "Proverbs 16:32",
+    "text_ru": "Долготерпеливый лучше храброго, и владеющий собою лучше завоевателя города.",
+    "source_ru": "Притчи 16:32"
   },
   {
     "text": "Go to the ant, thou sluggard; consider her ways, and be wise.",
-    "source": "Proverbs 6:6"
+    "source": "Proverbs 6:6",
+    "text_ru": "Пойди к муравью, ленивец, посмотри на действия его, и будь мудрым.",
+    "source_ru": "Притчи 6:6"
   },
   {
     "text": "A merry heart doeth good like a medicine.",
-    "source": "Proverbs 17:22"
+    "source": "Proverbs 17:22",
+    "text_ru": "Веселое сердце благотворно, как врачевство.",
+    "source_ru": "Притчи 17:22"
   },
   {
     "text": "Seest thou a man diligent in his business? he shall stand before kings.",
-    "source": "Proverbs 22:29"
+    "source": "Proverbs 22:29",
+    "text_ru": "Видел ли ты человека проворного в своем деле? Он будет стоять пред царями.",
+    "source_ru": "Притчи 22:29"
   },
   {
     "text": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself.",
-    "source": "Matthew 6:34"
+    "source": "Matthew 6:34",
+    "text_ru": "Не заботьтесь о завтрашнем дне, ибо завтрашний сам будет заботиться о своем.",
+    "source_ru": "Матфей 6:34"
   },
   {
     "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
-    "source": "Matthew 7:7"
+    "source": "Matthew 7:7",
+    "text_ru": "Просите, и дано будет вам; ищите, и найдете; стучите, и отворят вам.",
+    "source_ru": "Матфей 7:7"
   },
   {
     "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
-    "source": "Matthew 5:14"
+    "source": "Matthew 5:14",
+    "text_ru": "Вы свет мира. Не может укрыться город, стоящий на верху горы.",
+    "source_ru": "Матфей 5:14"
   },
   {
     "text": "He that is faithful in that which is least is faithful also in much.",
-    "source": "Luke 16:10"
+    "source": "Luke 16:10",
+    "text_ru": "Верный в малом и во многом верен.",
+    "source_ru": "Лука 16:10"
   },
   {
     "text": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up.",
-    "source": "1 Corinthians 13:4"
+    "source": "1 Corinthians 13:4",
+    "text_ru": "Любовь долготерпит, милосердствует, любовь не завидует, любовь не превозносится, не гордится.",
+    "source_ru": "1 Коринфянам 13:4"
   },
   {
     "text": "Let all your things be done with charity.",
-    "source": "1 Corinthians 16:14"
+    "source": "1 Corinthians 16:14",
+    "text_ru": "Все у вас да будет с любовью.",
+    "source_ru": "1 Коринфянам 16:14"
   },
   {
     "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
-    "source": "Galatians 6:9"
+    "source": "Galatians 6:9",
+    "text_ru": "Делая добро, да не унываем, ибо в свое время пожнем, если не ослабеем.",
+    "source_ru": "Галатам 6:9"
   },
   {
     "text": "Be not overcome of evil, but overcome evil with good.",
-    "source": "Romans 12:21"
+    "source": "Romans 12:21",
+    "text_ru": "Не будь побежден злом, но побеждай зло добром.",
+    "source_ru": "Римлянам 12:21"
   },
   {
     "text": "Tribulation worketh patience; and patience, experience; and experience, hope.",
-    "source": "Romans 5:3-4"
+    "source": "Romans 5:3-4",
+    "text_ru": "От скорби происходит терпение, от терпения опытность, от опытности надежда.",
+    "source_ru": "Римлянам 5:3-4"
   },
   {
     "text": "I have fought a good fight, I have finished my course, I have kept the faith.",
-    "source": "2 Timothy 4:7"
+    "source": "2 Timothy 4:7",
+    "text_ru": "Подвигом добрым я подвизался, течение совершил, веру сохранил.",
+    "source_ru": "2 Тимофею 4:7"
   },
   {
     "text": "So teach us to number our days, that we may apply our hearts unto wisdom.",
-    "source": "Psalm 90:12"
+    "source": "Psalm 90:12",
+    "text_ru": "Научи нас так счислять дни наши, чтобы нам приобрести сердце мудрое.",
+    "source_ru": "Псалом 89:12"
   },
   {
     "text": "Let every man be swift to hear, slow to speak, slow to wrath.",
-    "source": "James 1:19"
+    "source": "James 1:19",
+    "text_ru": "Всякий человек да будет скор на слышание, медлен на слова, медлен на гнев.",
+    "source_ru": "Иаков 1:19"
   },
   {
     "text": "Pride goeth before destruction, and an haughty spirit before a fall.",
-    "source": "Proverbs 16:18"
+    "source": "Proverbs 16:18",
+    "text_ru": "Погибели предшествует гордость, и падению надменность.",
+    "source_ru": "Притчи 16:18"
   },
   {
     "text": "All things whatsoever ye would that men should do to you, do ye even so to them.",
-    "source": "Matthew 7:12"
+    "source": "Matthew 7:12",
+    "text_ru": "Во всем, как хотите, чтобы с вами поступали люди, так поступайте и вы с ними.",
+    "source_ru": "Матфей 7:12"
   },
   {
     "text": "For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.",
-    "source": "Ecclesiastes 1:18"
+    "source": "Ecclesiastes 1:18",
+    "text_ru": "Во многой мудрости много печали; и кто умножает познания, умножает скорбь.",
+    "source_ru": "Екклесиаст 1:18"
   },
   {
     "text": "The spirit indeed is willing, but the flesh is weak.",
-    "source": "Matthew 26:41"
+    "source": "Matthew 26:41",
+    "text_ru": "Дух бодр, плоть же немощна.",
+    "source_ru": "Матфей 26:41"
   }
 ]
