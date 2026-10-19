@@ -83,6 +83,39 @@
 ---
 ## Проекты
 
+### ML и данные
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/vincere-mori/runmedic/">runmedic</a></h3>
+      <p>Доктор для обучения моделей. Читает логи TensorBoard, MLflow, W&B и stdout, находит NaN, переобучение, простаивающую GPU и утечки памяти и говорит, что поправить в коде. CLI на PyPI и скилл для AI-агентов.</p>
+      <a href="https://pypi.org/project/runmedic/">
+        <img src="https://img.shields.io/pypi/v/runmedic?style=for-the-badge&logo=pypi&logoColor=white&label=pypi" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/vincere-mori/ml-engineer-roadmap/">ML Engineer Roadmap</a></h3>
+      <p>Путь до оффера ML-инженера на российском рынке: 11 разделов-чек-листов, стек компаний, зарплаты и собесы. Внутри ML Coach, скилл для агентов, который проверяет уровень и гоняет по пробным собесам.</p>
+      <a href="https://github.com/vincere-mori/ml-engineer-roadmap/stargazers">
+        <img src="https://img.shields.io/github/stars/vincere-mori/ml-engineer-roadmap?style=for-the-badge&logo=github&label=%E2%98%85" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/vincere-mori/clickstream-analytics/">Clickstream Analytics</a></h3>
+      <p>Сквозной ML-пайплайн: Generator -> Kafka -> Spark -> ClickHouse -> Airflow -> XGBoost -> FastAPI.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/vincere-mori/user-behavior/">User Behavior</a></h3>
+      <p>Гибридная модель LSTM + линейный тренд для почасового прогноза активности пользователей. R^2 0.79, MAPE 4%.</p>
+    </td>
+  </tr>
+</table>
+
+### Приложения
+
 <table>
   <tr>
     <td width="50%">
@@ -162,6 +195,11 @@
       </a>
     </td>
   </tr>
+</table>
+
+### Генеративное
+
+<table>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/vincere-mori/love/">Love</a></h3>
@@ -176,24 +214,6 @@
       <a href="https://vincere-mori.github.io/stellar-cartography/">
         <img src="https://img.shields.io/badge/%D0%B4%D0%B5%D0%BC%D0%BE-e8943a?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/vincere-mori/ml-engineer-roadmap/">ML Engineer Roadmap</a></h3>
-      <p>Подробный гайд и подборка материалов для освоения ML Engineering.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/vincere-mori/clickstream-analytics/">Clickstream Analytics</a></h3>
-      <p>Сквозной ML-пайплайн: Generator -> Kafka -> Spark -> ClickHouse -> Airflow -> XGBoost -> FastAPI.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/vincere-mori/user-behavior/">User Behavior</a></h3>
-      <p>Гибридная модель LSTM + линейный тренд для почасового прогноза активности пользователей. R^2 0.79, MAPE 4%.</p>
-    </td>
-    <td width="50%">
     </td>
   </tr>
 </table>
