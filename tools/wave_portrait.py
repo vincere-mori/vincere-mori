@@ -1,189 +1,138 @@
 #!/usr/bin/env python3
-"""Turn a photo into a scanline wave portrait and bake the drawing animation into the SVG.
+"""Turn a picture into an engraved ring portrait and bake the drawing animation into the SVG.
 
-Each output row is one continuous line whose vertical wobble grows with the
-brightness of the source underneath it. Rows are revealed top to bottom with
-stroke-dashoffset, so the face draws itself line by line.
+Each ring is a ribbon whose thickness follows the brightness underneath it, so
+the image reads like a line engraving. Rings are revealed from the centre
+outwards through a mask of stroked circles (stroke-dashoffset).
 
-Source image for assets/david.svg: plaster cast of the head of David, KAS2232,
-Statens Museum for Kunst, public domain.
+Source image for assets/mandylion.svg: The Saviour Not Made by Hands, Novgorod,
+12th century, Tretyakov Gallery, public domain (Wikimedia Commons,
+"Christos Acheiropoietos.jpg").
 
 Usage:
-  python tools/wave_portrait.py photo.jpg --crop 262,0,1822,1560 \n      --width 640 --height 640 --rows 96 --gamma 0.9 --contrast 1.4 \n      --out assets/david.svg
+  python tools/wave_portrait.py mandylion.jpg --crop 69,103,1237,1271 --out assets/mandylion.svg
 """
 
 import argparse
 import math
 
-from PIL import Image, ImageDraw, ImageFilter, ImageOps
+from PIL import Image, ImageFilter, ImageOps
 
-W = 640
-H = 600
-ROWS = 74
-GROUPS = 28
-DX = 4.0
-MAX_AMP = 3.4
-FREQ = 0.62
-FLOOR = 0.10
-DURATION = 13.0
+N = 640
+RINGS = 50
+GROUPS = 25
+DURATION = 9.0
+INK = "#e8e4dc"
+BG = "#0b0b12"
 
 
-def prepare(path, crop, gamma, contrast, bg):
-    """Return (inside, tone): where the subject is, and how deep its shading is.
-
-    The cast is bright on a dark ground, so brightness alone says almost nothing
-    about the face. Silhouette comes from a threshold; the wobble is driven by
-    shadow depth inside that silhouette, which is what actually draws features.
-    """
+def prepare(path, crop, gamma):
     im = Image.open(path).convert("RGB")
     if crop:
         im = im.crop(crop)
-    im = ImageOps.grayscale(im).resize((W, H), Image.LANCZOS)
-    blur = im.filter(ImageFilter.GaussianBlur(radius=H / 14.0))
-    px, bx = im.load(), blur.load()
-
-    raw = [[px[x, y] / 255.0 for x in range(W)] for y in range(H)]
-    low = [[bx[x, y] / 255.0 for x in range(W)] for y in range(H)]
-    inside = [[raw[y][x] > bg for x in range(W)] for y in range(H)]
-
-    vals = [raw[y][x] for y in range(H) for x in range(W) if inside[y][x]]
-    if not vals:
-        raise SystemExit("silhouette is empty, lower --bg")
-    lo, hi = min(vals), max(vals)
-    span = max(1e-6, hi - lo)
-
-    # local detail carries the features; the global gradient only says where the
-    # light came from, so it is kept at a fraction of the weight
-    tone = [[0.0] * W for _ in range(H)]
-    for y in range(H):
-        for x in range(W):
-            if not inside[y][x]:
-                continue
-            detail = max(0.0, low[y][x] - raw[y][x]) * 6.0
-            shade = 1.0 - (raw[y][x] - lo) / span
-            t = pow(min(1.0, detail + 0.3 * shade), gamma)
-            tone[y][x] = min(1.0, t * contrast)
-    return inside, tone
+    im = ImageOps.grayscale(im).resize((N, N), Image.LANCZOS)
+    im = ImageOps.autocontrast(im, cutoff=1)
+    im = im.filter(ImageFilter.UnsharpMask(radius=8, percent=90, threshold=2))
+    im = im.filter(ImageFilter.GaussianBlur(1.4))
+    px = im.load()
+    return lambda x, y: pow(px[min(N - 1, max(0, int(x))), min(N - 1, max(0, int(y)))] / 255.0, gamma)
 
 
-def sample(inside, tone, x, y):
-    xi = min(W - 1, max(0, int(x)))
-    hits = 0
-    total = 0.0
-    for dy in (-2, 0, 2):
-        yy = min(H - 1, max(0, int(y + dy)))
-        if inside[yy][xi]:
-            hits += 1
-            total += tone[yy][xi]
-    return hits >= 2, (total / hits if hits else 0.0)
+def simplify(pts, eps=0.25):
+    if len(pts) < 3:
+        return pts
+    (ax, ay), (bx, by) = pts[0], pts[-1]
+    dx, dy = bx - ax, by - ay
+    norm = math.hypot(dx, dy)
+    if norm < 1e-3:
+        # closed ring, split it so the chord isn't degenerate
+        h = len(pts) // 2
+        return simplify(pts[: h + 1], eps)[:-1] + simplify(pts[h:], eps)
+    dist = [abs(dx * (y - ay) - dy * (x - ax)) / norm for x, y in pts]
+    i = max(range(len(pts)), key=dist.__getitem__)
+    if dist[i] > eps:
+        return simplify(pts[: i + 1], eps)[:-1] + simplify(pts[i:], eps)
+    return [pts[0], pts[-1]]
 
 
-def build_rows(inside, tone):
-    """One row -> list of subpaths, each a list of (x, y) points."""
-    row_h = H / ROWS
-    rows = []
-    for r in range(ROWS):
-        base = (r + 0.5) * row_h
-        phase = r * 1.7
-        subpaths = []
-        current = []
-        x = 0.0
-        while x <= W:
-            on, v = sample(inside, tone, x, base)
-            phase += FREQ * (0.55 + 1.7 * v)
-            if not on:
-                if len(current) > 3:
-                    subpaths.append(current)
-                current = []
-            else:
-                amp = MAX_AMP * max(0.0, v - FLOOR) / (1 - FLOOR)
-                current.append((x, base + amp * math.sin(phase)))
-            x += DX
-        if len(current) > 3:
-            subpaths.append(current)
-        rows.append(subpaths)
-    return rows
+def num(v):
+    s = ("%.1f" % v).rstrip("0").rstrip(".")
+    return "0" if s in ("-0", "") else s
 
 
-def path_data(points):
-    x0, y0 = points[0]
-    out = ["M%.0f %.1f" % (x0, y0)]
-    prev = y0
-    for _, y in points[1:]:
-        out.append("l%.0f %.1f" % (DX, y - prev))
-        prev = y
-    return "".join(out)
+def path_data(pts):
+    out = "M%s %s" % (num(pts[0][0]), num(pts[0][1]))
+    px, py = pts[0]
+    for x, y in pts[1:]:
+        dx, dy = num(x - px), num(y - py)
+        out += "l" + dx + ("" if dy.startswith("-") else " ") + dy
+        px, py = px + float(dx), py + float(dy)
+    return out + "z"
+
+
+def build(tone):
+    c = N / 2
+    gap = (N / 2 - 3) / RINGS
+    ribbons, mask = [], []
+    for k in range(1, RINGS + 1):
+        r = k * gap - gap / 2
+        n = max(24, int(2 * math.pi * r / 4.5))
+        outer, inner = [], []
+        for i in range(n + 1):
+            a = 2 * math.pi * i / n - math.pi / 2
+            x, y = c + r * math.cos(a), c + r * math.sin(a)
+            w = max(0.35, gap * 0.94 * tone(x, y)) / 2
+            outer.append((x + w * math.cos(a), y + w * math.sin(a)))
+            inner.append((x - w * math.cos(a), y - w * math.sin(a)))
+        ribbons.append(path_data(simplify(outer)) + path_data(simplify(inner[::-1])))
+        g = min(GROUPS - 1, (k - 1) * GROUPS // RINGS)
+        mask.append(
+            '<circle class="m g%d" pathLength="1" stroke-width="%s" cx="%d" cy="%d" r="%s" transform="rotate(-90 %d %d)"/>'
+            % (g, num(gap + 1), c, c, num(r), c, c)
+        )
+    return ribbons, mask
 
 
 def css():
-    step = 62.0 / GROUPS
+    # draw takes the first ~38% of the cycle, then hold and fade
     parts = [
-        "path{fill:none;stroke:#e8e4dc;stroke-width:1.15;stroke-linecap:round;"
-        "vector-effect:non-scaling-stroke;stroke-dasharray:1;stroke-dashoffset:1;"
-        "animation-duration:%.1fs;animation-iteration-count:infinite;"
-        "animation-timing-function:cubic-bezier(.35,0,.25,1)}" % DURATION
+        ".m{fill:none;stroke:#fff;stroke-dasharray:1;stroke-dashoffset:1;"
+        "animation:%.0fs cubic-bezier(.4,0,.2,1) infinite}" % DURATION
     ]
     for g in range(GROUPS):
-        a = 3.0 + g * step
-        b = a + 7.0
+        a = 1 + g * 30.0 / GROUPS
         parts.append(
-            "@keyframes w%d{0%%,%.2f%%{stroke-dashoffset:1;opacity:1}"
-            "%.2f%%,91%%{stroke-dashoffset:0;opacity:1}"
-            "100%%{stroke-dashoffset:0;opacity:0}}" % (g, a, b)
+            "@keyframes w%d{0%%,%.1f%%{stroke-dashoffset:1;opacity:1}%.1f%%,92%%{stroke-dashoffset:0;opacity:1}"
+            "100%%{stroke-dashoffset:0;opacity:0}}.g%d{animation-name:w%d}" % (g, a, a + 7, g, g)
         )
-        parts.append(".g%d{animation-name:w%d}" % (g, g))
     return "".join(parts)
 
 
-def to_svg(rows):
-    out = [
-        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d" width="%d" height="%d" '
-        'role="img" aria-label="Head of David, drawn line by line">' % (W, H, W, H),
-        "<defs><style><![CDATA[%s]]></style></defs>" % css(),
-        '<rect width="%d" height="%d" fill="#0b0b12"/>' % (W, H),
-    ]
-    for r, subpaths in enumerate(rows):
-        g = min(GROUPS - 1, int(r * GROUPS / ROWS))
-        for pts in subpaths:
-            out.append('<path class="g%d" pathLength="1" d="%s"/>' % (g, path_data(pts)))
-    out.append("</svg>")
-    return "".join(out)
-
-
-def preview(rows, path):
-    img = Image.new("RGB", (W, H), (11, 11, 18))
-    d = ImageDraw.Draw(img)
-    for subpaths in rows:
-        for pts in subpaths:
-            d.line([(x, y) for x, y in pts], fill=(232, 228, 220), width=1)
-    img.save(path)
+def to_svg(ribbons, mask, label):
+    return (
+        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d" width="%d" height="%d" role="img" aria-label="%s">'
+        "<defs><style><![CDATA[%s]]></style>"
+        '<mask id="r" maskUnits="userSpaceOnUse" x="0" y="0" width="%d" height="%d">%s</mask></defs>'
+        '<rect width="%d" height="%d" fill="%s"/>'
+        '<g mask="url(#r)" fill="%s" fill-rule="evenodd"><path d="%s"/></g></svg>'
+        % (N, N, N, N, label, css(), N, N, "".join(mask), N, N, BG, INK, "".join(ribbons))
+    )
 
 
 def main():
-    global W, H, ROWS
     ap = argparse.ArgumentParser()
     ap.add_argument("src")
     ap.add_argument("--out", default="portrait.svg")
-    ap.add_argument("--preview", default="preview.png")
     ap.add_argument("--crop", default="", help="left,top,right,bottom")
-    ap.add_argument("--gamma", type=float, default=1.35)
-    ap.add_argument("--contrast", type=float, default=1.25)
-    ap.add_argument("--bg", type=float, default=0.22, help="silhouette threshold")
-    ap.add_argument("--width", type=int, default=W)
-    ap.add_argument("--height", type=int, default=H)
-    ap.add_argument("--rows", type=int, default=ROWS)
+    ap.add_argument("--gamma", type=float, default=1.5)
+    ap.add_argument("--label", default="The Saviour Not Made by Hands, drawn ring by ring")
     args = ap.parse_args()
-    W, H, ROWS = args.width, args.height, args.rows
     crop = tuple(int(v) for v in args.crop.split(",")) if args.crop else None
-    inside, tone = prepare(args.src, crop, args.gamma, args.contrast, args.bg)
-    rows = build_rows(inside, tone)
-    svg = to_svg(rows)
+    ribbons, mask = build(prepare(args.src, crop, args.gamma))
+    svg = to_svg(ribbons, mask, args.label)
     with open(args.out, "w", encoding="utf-8", newline="\n") as f:
         f.write(svg)
-    preview(rows, args.preview)
-
-    strokes = sum(len(s) for s in rows)
-    print("%s  %.0f KB  %d rows  %d subpaths" % (args.out, len(svg) / 1024, len(rows), strokes))
+    print("%s  %.0f KB" % (args.out, len(svg) / 1024))
 
 
 if __name__ == "__main__":

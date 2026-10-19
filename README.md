@@ -30,10 +30,6 @@
   <img src="https://komarev.com/ghpvc/?username=vincere-mori&label=piligrims&abbreviated=true&color=2b0a3d&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vincere-mori/vincere-mori/main/assets/david.svg" alt="head of David, drawn line by line" width="380" />
-</p>
-
 ---
 
 ## About
@@ -222,6 +218,10 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vincere-mori/vincere-mori/main/assets/mandylion.svg" alt="The Saviour Not Made by Hands, drawn ring by ring" width="380" />
+</p>
 
 <!-- QUOTE_START -->
 <p align="center">
