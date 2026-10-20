@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“I have fought a good fight, I have finished my course, I have kept the faith.”</em><br>
-  <sup>— 2 Timothy 4:7</sup>
+  <em>“Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.”</em><br>
+  <sup>— Ecclesiastes 7:8</sup>
 </p>
 <!-- QUOTE_END -->
 
