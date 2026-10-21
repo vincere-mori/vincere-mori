@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.”</em><br>
-  <sup>— Ecclesiastes 7:8</sup>
+  <em>“Keep thy heart with all diligence; for out of it are the issues of life.”</em><br>
+  <sup>— Proverbs 4:23</sup>
 </p>
 <!-- QUOTE_END -->
 
