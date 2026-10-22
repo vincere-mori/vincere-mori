@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Keep thy heart with all diligence; for out of it are the issues of life.”</em><br>
-  <sup>— Proverbs 4:23</sup>
+  <em>“Greater love hath no man than this, that a man lay down his life for his friends.”</em><br>
+  <sup>— John 15:13</sup>
 </p>
 <!-- QUOTE_END -->
 
