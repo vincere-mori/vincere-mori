@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“All things whatsoever ye would that men should do to you, do ye even so to them.”</em><br>
-  <sup>— Matthew 7:12</sup>
+  <em>“Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself.”</em><br>
+  <sup>— Matthew 6:34</sup>
 </p>
 <!-- QUOTE_END -->
 
