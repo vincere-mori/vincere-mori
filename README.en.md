@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself.”</em><br>
-  <sup>— Matthew 6:34</sup>
+  <em>“He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.”</em><br>
+  <sup>— Proverbs 16:32</sup>
 </p>
 <!-- QUOTE_END -->
 
