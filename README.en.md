@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“The spirit indeed is willing, but the flesh is weak.”</em><br>
-  <sup>— Matthew 26:41</sup>
+  <em>“All things whatsoever ye would that men should do to you, do ye even so to them.”</em><br>
+  <sup>— Matthew 7:12</sup>
 </p>
 <!-- QUOTE_END -->
 
