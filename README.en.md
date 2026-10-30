@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“All things whatsoever ye would that men should do to you, do ye even so to them.”</em><br>
-  <sup>— Matthew 7:12</sup>
+  <em>“Seest thou a man diligent in his business? he shall stand before kings.”</em><br>
+  <sup>— Proverbs 22:29</sup>
 </p>
 <!-- QUOTE_END -->
 
