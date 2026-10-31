@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Seest thou a man diligent in his business? he shall stand before kings.”</em><br>
-  <sup>— Proverbs 22:29</sup>
+  <em>“Be strong and of a good courage; fear not, nor be afraid.”</em><br>
+  <sup>— Deuteronomy 31:6</sup>
 </p>
 <!-- QUOTE_END -->
 
