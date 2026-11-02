@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“A merry heart doeth good like a medicine.”</em><br>
-  <sup>— Proverbs 17:22</sup>
+  <em>“Whatsoever thy hand findeth to do, do it with thy might.”</em><br>
+  <sup>— Ecclesiastes 9:10</sup>
 </p>
 <!-- QUOTE_END -->
 
