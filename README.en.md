@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.”</em><br>
-  <sup>— Proverbs 16:32</sup>
+  <em>“I have fought a good fight, I have finished my course, I have kept the faith.”</em><br>
+  <sup>— 2 Timothy 4:7</sup>
 </p>
 <!-- QUOTE_END -->
 
