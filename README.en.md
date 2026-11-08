@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“I have fought a good fight, I have finished my course, I have kept the faith.”</em><br>
-  <sup>— 2 Timothy 4:7</sup>
+  <em>“Go to the ant, thou sluggard; consider her ways, and be wise.”</em><br>
+  <sup>— Proverbs 6:6</sup>
 </p>
 <!-- QUOTE_END -->
 
