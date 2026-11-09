@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Go to the ant, thou sluggard; consider her ways, and be wise.”</em><br>
-  <sup>— Proverbs 6:6</sup>
+  <em>“Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.”</em><br>
+  <sup>— Matthew 7:7</sup>
 </p>
 <!-- QUOTE_END -->
 
