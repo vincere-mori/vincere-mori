@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.”</em><br>
-  <sup>— Matthew 7:7</sup>
+  <em>“I have fought a good fight, I have finished my course, I have kept the faith.”</em><br>
+  <sup>— 2 Timothy 4:7</sup>
 </p>
 <!-- QUOTE_END -->
 
