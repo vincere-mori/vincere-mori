@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“I have fought a good fight, I have finished my course, I have kept the faith.”</em><br>
-  <sup>— 2 Timothy 4:7</sup>
+  <em>“A soft answer turneth away wrath: but grievous words stir up anger.”</em><br>
+  <sup>— Proverbs 15:1</sup>
 </p>
 <!-- QUOTE_END -->
 
