@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“A soft answer turneth away wrath: but grievous words stir up anger.”</em><br>
-  <sup>— Proverbs 15:1</sup>
+  <em>“And let us not be weary in well doing: for in due season we shall reap, if we faint not.”</em><br>
+  <sup>— Galatians 6:9</sup>
 </p>
 <!-- QUOTE_END -->
 
