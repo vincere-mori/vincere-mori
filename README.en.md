@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“And let us not be weary in well doing: for in due season we shall reap, if we faint not.”</em><br>
-  <sup>— Galatians 6:9</sup>
+  <em>“Seest thou a man diligent in his business? he shall stand before kings.”</em><br>
+  <sup>— Proverbs 22:29</sup>
 </p>
 <!-- QUOTE_END -->
 
