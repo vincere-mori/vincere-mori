@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Seest thou a man diligent in his business? he shall stand before kings.”</em><br>
-  <sup>— Proverbs 22:29</sup>
+  <em>“And the light shineth in darkness; and the darkness comprehended it not.”</em><br>
+  <sup>— John 1:5</sup>
 </p>
 <!-- QUOTE_END -->
 
