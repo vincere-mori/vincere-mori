@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“And the light shineth in darkness; and the darkness comprehended it not.”</em><br>
-  <sup>— John 1:5</sup>
+  <em>“Greater love hath no man than this, that a man lay down his life for his friends.”</em><br>
+  <sup>— John 15:13</sup>
 </p>
 <!-- QUOTE_END -->
 
