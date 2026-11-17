@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Keep thy heart with all diligence; for out of it are the issues of life.”</em><br>
-  <sup>— Proverbs 4:23</sup>
+  <em>“He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.”</em><br>
+  <sup>— Ecclesiastes 11:4</sup>
 </p>
 <!-- QUOTE_END -->
 
