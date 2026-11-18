@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.”</em><br>
-  <sup>— Ecclesiastes 11:4</sup>
+  <em>“Be not overcome of evil, but overcome evil with good.”</em><br>
+  <sup>— Romans 12:21</sup>
 </p>
 <!-- QUOTE_END -->
 
