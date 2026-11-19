@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Be not overcome of evil, but overcome evil with good.”</em><br>
-  <sup>— Romans 12:21</sup>
+  <em>“And ye shall know the truth, and the truth shall make you free.”</em><br>
+  <sup>— John 8:32</sup>
 </p>
 <!-- QUOTE_END -->
 
