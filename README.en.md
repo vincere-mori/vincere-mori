@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“And ye shall know the truth, and the truth shall make you free.”</em><br>
-  <sup>— John 8:32</sup>
+  <em>“He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.”</em><br>
+  <sup>— Ecclesiastes 11:4</sup>
 </p>
 <!-- QUOTE_END -->
 
