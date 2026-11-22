@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“A soft answer turneth away wrath: but grievous words stir up anger.”</em><br>
-  <sup>— Proverbs 15:1</sup>
+  <em>“To every thing there is a season, and a time to every purpose under the heaven.”</em><br>
+  <sup>— Ecclesiastes 3:1</sup>
 </p>
 <!-- QUOTE_END -->
 
