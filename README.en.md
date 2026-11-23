@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“To every thing there is a season, and a time to every purpose under the heaven.”</em><br>
-  <sup>— Ecclesiastes 3:1</sup>
+  <em>“For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.”</em><br>
+  <sup>— Ecclesiastes 1:18</sup>
 </p>
 <!-- QUOTE_END -->
 
