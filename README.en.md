@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.”</em><br>
-  <sup>— Ecclesiastes 1:18</sup>
+  <em>“All things whatsoever ye would that men should do to you, do ye even so to them.”</em><br>
+  <sup>— Matthew 7:12</sup>
 </p>
 <!-- QUOTE_END -->
 
