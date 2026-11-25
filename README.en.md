@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“All things whatsoever ye would that men should do to you, do ye even so to them.”</em><br>
-  <sup>— Matthew 7:12</sup>
+  <em>“Keep thy heart with all diligence; for out of it are the issues of life.”</em><br>
+  <sup>— Proverbs 4:23</sup>
 </p>
 <!-- QUOTE_END -->
 
