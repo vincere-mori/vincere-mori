@@ -249,8 +249,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Ye are the light of the world. A city that is set on an hill cannot be hid.”</em><br>
-  <sup>— Matthew 5:14</sup>
+  <em>“Go to the ant, thou sluggard; consider her ways, and be wise.”</em><br>
+  <sup>— Proverbs 6:6</sup>
 </p>
 <!-- QUOTE_END -->
 
