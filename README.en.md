@@ -165,8 +165,8 @@ Open for freelance, collabs, or just talk — reach me out on **[Telegram](https
 
 <!-- QUOTE_START -->
 <p align="center">
-  <em>“Go to the ant, thou sluggard; consider her ways, and be wise.”</em><br>
-  <sup>— Proverbs 6:6</sup>
+  <em>“He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.”</em><br>
+  <sup>— Ecclesiastes 11:4</sup>
 </p>
 <!-- QUOTE_END -->
 
