@@ -5,10 +5,6 @@
 <h1 align="center">Periculum in mora</h1>
 
 <p align="center">
-  Data Engineer • Machine Learning • Backend
-</p>
-
-<p align="center">
   <a href="README.md">Русский</a> | <b>English</b>
 </p>
 
