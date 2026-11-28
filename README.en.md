@@ -83,11 +83,58 @@
 ---
 ## Featured projects
 
-- [csvscope](https://github.com/vincere-mori/csvscope) - compares how pandas and DuckDB read the same CSV, down to values, types and row counts.
-- [runmedic](https://github.com/vincere-mori/runmedic) - checks training logs for NaNs, overfitting and GPU problems.
-- [Clickstream Analytics](https://github.com/vincere-mori/clickstream-analytics) - an event pipeline with Kafka, Spark and ClickHouse, an XGBoost model and an API.
-- [ML Engineer Roadmap](https://github.com/vincere-mori/ml-engineer-roadmap) - checklists, company stacks and interview prep for ML engineering in Russia.
-- [Stellar Cartography](https://github.com/vincere-mori/stellar-cartography) - an interactive Milky Way map in WebGL.
+### ML & data
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/vincere-mori/csvscope">csvscope</a></h3>
+      <p>Compares how pandas and DuckDB read the same CSV, down to values, types and row counts.</p>
+      <a href="https://github.com/vincere-mori/csvscope/releases/download/v0.1.0/orders-report.html">HTML report</a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/vincere-mori/runmedic/">runmedic</a></h3>
+      <p>A doctor for training runs. Reads TensorBoard, MLflow, W&B and stdout logs, finds NaNs, overfitting, idle GPUs and memory leaks, and says what to fix in the code. CLI on PyPI and a skill for coding agents.</p>
+      <a href="https://pypi.org/project/runmedic/">
+        <img src="https://img.shields.io/pypi/v/runmedic?style=for-the-badge&logo=pypi&logoColor=white&label=pypi" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/vincere-mori/clickstream-analytics/">Clickstream Analytics</a></h3>
+      <p>End-to-end ML pipeline: Generator >> Kafka >> Spark >> ClickHouse >> Airflow >> XGBoost >> FastAPI.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/vincere-mori/ml-engineer-roadmap/">ML Engineer Roadmap</a></h3>
+      <p>The path to an ML Engineer offer in the Russian market: 11 checklist sections, company stacks, salaries and interviews. Comes with ML Coach, an agent skill for level checks and mock interviews.</p>
+      <a href="https://github.com/vincere-mori/ml-engineer-roadmap/stargazers">
+        <img src="https://img.shields.io/github/stars/vincere-mori/ml-engineer-roadmap?style=for-the-badge&logo=github&label=%E2%98%85" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Apps and visualizations
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/vincere-mori/lictor/">Lictor</a></h3>
+      <p>A task manager with escalating reminders. Available as a PWA and an Android app.</p>
+      <a href="https://sinemora.vercel.app/">
+        <img src="https://img.shields.io/badge/live%20demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/vincere-mori/stellar-cartography/">Stellar Cartography</a></h3>
+      <p>Interactive WebGL galaxy map with raymarched nebulae, black holes, wormholes and object dossiers.</p>
+      <a href="https://vincere-mori.github.io/stellar-cartography/">
+        <img src="https://img.shields.io/badge/live%20demo-e8943a?style=for-the-badge&logo=githubpages&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 [All repositories](https://github.com/vincere-mori?tab=repositories)
 
